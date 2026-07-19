@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-07-19T06:29:06.921Z",
+  "updatedAt": "2026-07-19T06:29:16.571Z",
   "problems": [
     {
       "frontendId": "62",
@@ -123,6 +123,26 @@
           "path": "LeetCode_Solutions/0213-house-robber-ii/0213-house-robber-ii.java",
           "sha": "2b5cd5574b114351d87e33828c68726b83f658d4",
           "lastSyncedAt": "2026-07-19T06:28:49.222Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "509",
+      "title": "Fibonacci Number",
+      "slug": "fibonacci-number",
+      "problemName": "0509-fibonacci-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fibonacci-number/",
+      "folderPath": "LeetCode_Solutions/0509-fibonacci-number/",
+      "readmePath": "LeetCode_Solutions/0509-fibonacci-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0509-fibonacci-number.java",
+          "path": "LeetCode_Solutions/0509-fibonacci-number/0509-fibonacci-number.java",
+          "sha": "f973cd25308ad83e7e44cc61bb7a3a795e46ff64",
+          "lastSyncedAt": "2026-07-19T06:29:16.571Z"
         }
       ]
     },
