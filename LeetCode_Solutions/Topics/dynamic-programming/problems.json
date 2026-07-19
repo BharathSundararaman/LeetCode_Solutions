@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-07-19T06:28:04.686Z",
+  "updatedAt": "2026-07-19T06:28:43.161Z",
   "problems": [
     {
       "frontendId": "62",
@@ -43,6 +43,26 @@
           "path": "LeetCode_Solutions/0064-minimum-path-sum/0064-minimum-path-sum.java",
           "sha": "eaa850c7ddeb8692e5362b1fde3c02caad395e0b",
           "lastSyncedAt": "2026-07-19T06:27:55.025Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "91",
+      "title": "Decode Ways",
+      "slug": "decode-ways",
+      "problemName": "0091-decode-ways",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/decode-ways/",
+      "folderPath": "LeetCode_Solutions/0091-decode-ways/",
+      "readmePath": "LeetCode_Solutions/0091-decode-ways/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0091-decode-ways.java",
+          "path": "LeetCode_Solutions/0091-decode-ways/0091-decode-ways.java",
+          "sha": "ed8775c4e2dc0681caf46cc3bf247ca91660c1ef",
+          "lastSyncedAt": "2026-07-19T06:28:43.161Z"
         }
       ]
     }
