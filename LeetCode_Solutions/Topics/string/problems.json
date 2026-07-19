@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-07-19T06:28:38.200Z",
+  "updatedAt": "2026-07-19T06:28:43.161Z",
   "problems": [
     {
       "frontendId": "58",
@@ -23,6 +23,26 @@
           "path": "LeetCode_Solutions/0058-length-of-last-word/0058-length-of-last-word.java",
           "sha": "aecda5b86edf204b14fe88ce85b488d4871a2993",
           "lastSyncedAt": "2026-07-19T06:28:38.200Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "91",
+      "title": "Decode Ways",
+      "slug": "decode-ways",
+      "problemName": "0091-decode-ways",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/decode-ways/",
+      "folderPath": "LeetCode_Solutions/0091-decode-ways/",
+      "readmePath": "LeetCode_Solutions/0091-decode-ways/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0091-decode-ways.java",
+          "path": "LeetCode_Solutions/0091-decode-ways/0091-decode-ways.java",
+          "sha": "ed8775c4e2dc0681caf46cc3bf247ca91660c1ef",
+          "lastSyncedAt": "2026-07-19T06:28:43.161Z"
         }
       ]
     },
