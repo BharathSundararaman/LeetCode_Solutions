@@ -4,8 +4,28 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-07-19T06:28:14.840Z",
+  "updatedAt": "2026-07-19T06:28:38.200Z",
   "problems": [
+    {
+      "frontendId": "58",
+      "title": "Length of Last Word",
+      "slug": "length-of-last-word",
+      "problemName": "0058-length-of-last-word",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/length-of-last-word/",
+      "folderPath": "LeetCode_Solutions/0058-length-of-last-word/",
+      "readmePath": "LeetCode_Solutions/0058-length-of-last-word/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0058-length-of-last-word.java",
+          "path": "LeetCode_Solutions/0058-length-of-last-word/0058-length-of-last-word.java",
+          "sha": "aecda5b86edf204b14fe88ce85b488d4871a2993",
+          "lastSyncedAt": "2026-07-19T06:28:38.200Z"
+        }
+      ]
+    },
     {
       "frontendId": "1662",
       "title": "Check If Two String Arrays are Equivalent",
