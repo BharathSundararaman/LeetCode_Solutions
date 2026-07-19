@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 20 | 10 | 10 | 0 |
+| 21 | 10 | 11 | 0 |
 
 ## Activity
 
@@ -19,19 +19,19 @@ Contains topicwise list of solved problems.
 | 2026-07-16 | 3 |
 | 2026-07-17 | 7 |
 | 2026-07-18 | 5 |
-| 2026-07-19 | 2 |
+| 2026-07-19 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 11 | 55% |
-| Dynamic Programming | 8 | 40% |
-| Math | 5 | 25% |
-| Sliding Window | 4 | 20% |
-| Binary Search | 3 | 15% |
-| Prefix Sum | 3 | 15% |
-| String | 3 | 15% |
+| Array | 12 | 57% |
+| Dynamic Programming | 9 | 43% |
+| Math | 5 | 24% |
+| Sliding Window | 4 | 19% |
+| Binary Search | 3 | 14% |
+| Prefix Sum | 3 | 14% |
+| String | 3 | 14% |
 | Database | 2 | 10% |
 | Matrix | 2 | 10% |
 | Memoization | 2 | 10% |
@@ -40,7 +40,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 11 |
+| [Array](Topics/array/) | 12 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
@@ -48,7 +48,7 @@ Contains topicwise list of solved problems.
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Database](Topics/database/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 8 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 9 |
 | [Graph](Topics/graph/) | 0 |
 | [Hash Table](Topics/hash-table/) | 1 |
 | [Heap](Topics/heap/) | 0 |
