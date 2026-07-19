@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-07-19T06:29:40.292Z",
+  "updatedAt": "2026-07-19T06:29:52.773Z",
   "problems": [
     {
       "frontendId": "713",
@@ -23,6 +23,26 @@
           "path": "LeetCode_Solutions/0713-subarray-product-less-than-k/0713-subarray-product-less-than-k.java",
           "sha": "b97b34654a966fade1aa779d09266dd25ecb9bce",
           "lastSyncedAt": "2026-07-19T06:29:40.292Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1004",
+      "title": "Max Consecutive Ones III",
+      "slug": "max-consecutive-ones-iii",
+      "problemName": "1004-max-consecutive-ones-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+      "folderPath": "LeetCode_Solutions/1004-max-consecutive-ones-iii/",
+      "readmePath": "LeetCode_Solutions/1004-max-consecutive-ones-iii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1004-max-consecutive-ones-iii.java",
+          "path": "LeetCode_Solutions/1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.java",
+          "sha": "9138b7b95578cc2bdeb01c73ff52f303d7747a1b",
+          "lastSyncedAt": "2026-07-19T06:29:52.773Z"
         }
       ]
     }
