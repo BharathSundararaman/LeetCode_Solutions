@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-19T06:28:14.840Z",
+  "updatedAt": "2026-07-19T06:28:23.241Z",
   "problems": [
     {
       "frontendId": "64",
@@ -23,6 +23,26 @@
           "path": "LeetCode_Solutions/0064-minimum-path-sum/0064-minimum-path-sum.java",
           "sha": "eaa850c7ddeb8692e5362b1fde3c02caad395e0b",
           "lastSyncedAt": "2026-07-19T06:27:55.025Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1572",
+      "title": "Matrix Diagonal Sum",
+      "slug": "matrix-diagonal-sum",
+      "problemName": "1572-matrix-diagonal-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/matrix-diagonal-sum/",
+      "folderPath": "LeetCode_Solutions/1572-matrix-diagonal-sum/",
+      "readmePath": "LeetCode_Solutions/1572-matrix-diagonal-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1572-matrix-diagonal-sum.java",
+          "path": "LeetCode_Solutions/1572-matrix-diagonal-sum/1572-matrix-diagonal-sum.java",
+          "sha": "18672cc153fe95a8233e2d4f75d2bdd212e118b7",
+          "lastSyncedAt": "2026-07-19T06:28:23.241Z"
         }
       ]
     },
