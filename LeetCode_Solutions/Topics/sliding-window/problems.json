@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-07-19T06:29:52.773Z",
+  "updatedAt": "2026-07-19T06:30:03.809Z",
   "problems": [
     {
       "frontendId": "713",
@@ -23,6 +23,26 @@
           "path": "LeetCode_Solutions/0713-subarray-product-less-than-k/0713-subarray-product-less-than-k.java",
           "sha": "b97b34654a966fade1aa779d09266dd25ecb9bce",
           "lastSyncedAt": "2026-07-19T06:29:40.292Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "904",
+      "title": "Fruit Into Baskets",
+      "slug": "fruit-into-baskets",
+      "problemName": "0904-fruit-into-baskets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/fruit-into-baskets/",
+      "folderPath": "LeetCode_Solutions/0904-fruit-into-baskets/",
+      "readmePath": "LeetCode_Solutions/0904-fruit-into-baskets/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0904-fruit-into-baskets.java",
+          "path": "LeetCode_Solutions/0904-fruit-into-baskets/0904-fruit-into-baskets.java",
+          "sha": "696ba0436e759e2067da45091950f063c4f30b0c",
+          "lastSyncedAt": "2026-07-19T06:30:03.809Z"
         }
       ]
     },
