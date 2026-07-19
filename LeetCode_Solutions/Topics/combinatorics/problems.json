@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "combinatorics",
+    "name": "Combinatorics"
+  },
+  "updatedAt": "2026-07-19T06:28:04.686Z",
+  "problems": [
+    {
+      "frontendId": "62",
+      "title": "Unique Paths",
+      "slug": "unique-paths",
+      "problemName": "0062-unique-paths",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-paths/",
+      "folderPath": "LeetCode_Solutions/0062-unique-paths/",
+      "readmePath": "LeetCode_Solutions/0062-unique-paths/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0062-unique-paths.java",
+          "path": "LeetCode_Solutions/0062-unique-paths/0062-unique-paths.java",
+          "sha": "99de473b28a20680fbec8e7e45332afa64d5da70",
+          "lastSyncedAt": "2026-07-19T06:28:04.686Z"
+        }
+      ]
+    }
+  ]
+}
