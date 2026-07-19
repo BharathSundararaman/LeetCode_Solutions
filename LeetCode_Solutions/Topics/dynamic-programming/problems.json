@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-07-19T06:28:49.222Z",
+  "updatedAt": "2026-07-19T06:28:54.880Z",
   "problems": [
     {
       "frontendId": "62",
@@ -83,6 +83,26 @@
           "path": "LeetCode_Solutions/0213-house-robber-ii/0213-house-robber-ii.java",
           "sha": "2b5cd5574b114351d87e33828c68726b83f658d4",
           "lastSyncedAt": "2026-07-19T06:28:49.222Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "746",
+      "title": "Min Cost Climbing Stairs",
+      "slug": "min-cost-climbing-stairs",
+      "problemName": "0746-min-cost-climbing-stairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/min-cost-climbing-stairs/",
+      "folderPath": "LeetCode_Solutions/0746-min-cost-climbing-stairs/",
+      "readmePath": "LeetCode_Solutions/0746-min-cost-climbing-stairs/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0746-min-cost-climbing-stairs.java",
+          "path": "LeetCode_Solutions/0746-min-cost-climbing-stairs/0746-min-cost-climbing-stairs.java",
+          "sha": "8e755d32b2a9b5e94d898c2e20fa22e37c941aa8",
+          "lastSyncedAt": "2026-07-19T06:28:54.880Z"
         }
       ]
     }
