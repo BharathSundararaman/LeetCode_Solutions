@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "sliding-window",
+    "name": "Sliding Window"
+  },
+  "updatedAt": "2026-07-19T06:29:40.292Z",
+  "problems": [
+    {
+      "frontendId": "713",
+      "title": "Subarray Product Less Than K",
+      "slug": "subarray-product-less-than-k",
+      "problemName": "0713-subarray-product-less-than-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subarray-product-less-than-k/",
+      "folderPath": "LeetCode_Solutions/0713-subarray-product-less-than-k/",
+      "readmePath": "LeetCode_Solutions/0713-subarray-product-less-than-k/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0713-subarray-product-less-than-k.java",
+          "path": "LeetCode_Solutions/0713-subarray-product-less-than-k/0713-subarray-product-less-than-k.java",
+          "sha": "b97b34654a966fade1aa779d09266dd25ecb9bce",
+          "lastSyncedAt": "2026-07-19T06:29:40.292Z"
+        }
+      ]
+    }
+  ]
+}
