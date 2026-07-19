@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "number-theory",
+    "name": "Number Theory"
+  },
+  "updatedAt": "2026-07-19T06:29:27.648Z",
+  "problems": [
+    {
+      "frontendId": "3658",
+      "title": "GCD of Odd and Even Sums",
+      "slug": "gcd-of-odd-and-even-sums",
+      "problemName": "3658-gcd-of-odd-and-even-sums",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/gcd-of-odd-and-even-sums/",
+      "folderPath": "LeetCode_Solutions/3658-gcd-of-odd-and-even-sums/",
+      "readmePath": "LeetCode_Solutions/3658-gcd-of-odd-and-even-sums/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3658-gcd-of-odd-and-even-sums.java",
+          "path": "LeetCode_Solutions/3658-gcd-of-odd-and-even-sums/3658-gcd-of-odd-and-even-sums.java",
+          "sha": "effaa5bb8e2a75f2b5bf5797f8e648ba4119db7b",
+          "lastSyncedAt": "2026-07-19T06:29:27.648Z"
+        }
+      ]
+    }
+  ]
+}
