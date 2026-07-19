@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-19T06:30:12.449Z",
+  "updatedAt": "2026-07-19T12:04:44.334Z",
   "problems": [
     {
       "frontendId": "64",
@@ -83,6 +83,26 @@
           "path": "LeetCode_Solutions/0213-house-robber-ii/0213-house-robber-ii.java",
           "sha": "2b5cd5574b114351d87e33828c68726b83f658d4",
           "lastSyncedAt": "2026-07-19T06:28:49.222Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "416",
+      "title": "Partition Equal Subset Sum",
+      "slug": "partition-equal-subset-sum",
+      "problemName": "0416-partition-equal-subset-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-equal-subset-sum/",
+      "folderPath": "LeetCode_Solutions/0416-partition-equal-subset-sum/",
+      "readmePath": "LeetCode_Solutions/0416-partition-equal-subset-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0416-partition-equal-subset-sum.java",
+          "path": "LeetCode_Solutions/0416-partition-equal-subset-sum/0416-partition-equal-subset-sum.java",
+          "sha": "46f80ae6655198e18555be316e48bb1b22d5de57",
+          "lastSyncedAt": "2026-07-19T12:04:44.334Z"
         }
       ]
     },
