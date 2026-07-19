@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "two-pointers",
+    "name": "Two Pointers"
+  },
+  "updatedAt": "2026-07-19T06:28:29.977Z",
+  "problems": [
+    {
+      "frontendId": "1089",
+      "title": "Duplicate Zeros",
+      "slug": "duplicate-zeros",
+      "problemName": "1089-duplicate-zeros",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/duplicate-zeros/",
+      "folderPath": "LeetCode_Solutions/1089-duplicate-zeros/",
+      "readmePath": "LeetCode_Solutions/1089-duplicate-zeros/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1089-duplicate-zeros.java",
+          "path": "LeetCode_Solutions/1089-duplicate-zeros/1089-duplicate-zeros.java",
+          "sha": "dba40c12b7ea4c4f38946a71ba7918722022d236",
+          "lastSyncedAt": "2026-07-19T06:28:29.977Z"
+        }
+      ]
+    }
+  ]
+}
