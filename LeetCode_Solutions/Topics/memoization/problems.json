@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "memoization",
+    "name": "Memoization"
+  },
+  "updatedAt": "2026-07-19T06:29:06.921Z",
+  "problems": [
+    {
+      "frontendId": "70",
+      "title": "Climbing Stairs",
+      "slug": "climbing-stairs",
+      "problemName": "0070-climbing-stairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs/",
+      "folderPath": "LeetCode_Solutions/0070-climbing-stairs/",
+      "readmePath": "LeetCode_Solutions/0070-climbing-stairs/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0070-climbing-stairs.java",
+          "path": "LeetCode_Solutions/0070-climbing-stairs/0070-climbing-stairs.java",
+          "sha": "2584116e82977513fa541851727e4546ef080a6f",
+          "lastSyncedAt": "2026-07-19T06:29:06.921Z"
+        }
+      ]
+    }
+  ]
+}
