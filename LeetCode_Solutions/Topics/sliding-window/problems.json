@@ -4,8 +4,28 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-07-19T06:30:03.809Z",
+  "updatedAt": "2026-07-19T06:30:12.449Z",
   "problems": [
+    {
+      "frontendId": "209",
+      "title": "Minimum Size Subarray Sum",
+      "slug": "minimum-size-subarray-sum",
+      "problemName": "0209-minimum-size-subarray-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-size-subarray-sum/",
+      "folderPath": "LeetCode_Solutions/0209-minimum-size-subarray-sum/",
+      "readmePath": "LeetCode_Solutions/0209-minimum-size-subarray-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0209-minimum-size-subarray-sum.java",
+          "path": "LeetCode_Solutions/0209-minimum-size-subarray-sum/0209-minimum-size-subarray-sum.java",
+          "sha": "da36c53578e1812fa63ccca7889498674d45515a",
+          "lastSyncedAt": "2026-07-19T06:30:12.449Z"
+        }
+      ]
+    },
     {
       "frontendId": "713",
       "title": "Subarray Product Less Than K",
