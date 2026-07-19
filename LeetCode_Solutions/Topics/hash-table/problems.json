@@ -4,6 +4,27 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-07-19T06:27:24.769Z",
-  "problems": []
+  "updatedAt": "2026-07-19T06:30:03.809Z",
+  "problems": [
+    {
+      "frontendId": "904",
+      "title": "Fruit Into Baskets",
+      "slug": "fruit-into-baskets",
+      "problemName": "0904-fruit-into-baskets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/fruit-into-baskets/",
+      "folderPath": "LeetCode_Solutions/0904-fruit-into-baskets/",
+      "readmePath": "LeetCode_Solutions/0904-fruit-into-baskets/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0904-fruit-into-baskets.java",
+          "path": "LeetCode_Solutions/0904-fruit-into-baskets/0904-fruit-into-baskets.java",
+          "sha": "696ba0436e759e2067da45091950f063c4f30b0c",
+          "lastSyncedAt": "2026-07-19T06:30:03.809Z"
+        }
+      ]
+    }
+  ]
 }
