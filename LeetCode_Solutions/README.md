@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 22 | 10 | 12 | 0 |
+| 23 | 11 | 12 | 0 |
 
 ## Activity
 
@@ -20,20 +20,20 @@ Contains topicwise list of solved problems.
 | 2026-07-17 | 7 |
 | 2026-07-18 | 5 |
 | 2026-07-19 | 3 |
-| 2026-07-20 | 1 |
+| 2026-07-20 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 12 | 55% |
-| Dynamic Programming | 10 | 45% |
-| Math | 5 | 23% |
-| Sliding Window | 4 | 18% |
-| String | 4 | 18% |
-| Binary Search | 3 | 14% |
-| Prefix Sum | 3 | 14% |
-| Database | 2 | 9% |
+| Array | 12 | 52% |
+| Dynamic Programming | 10 | 43% |
+| Math | 5 | 22% |
+| Sliding Window | 4 | 17% |
+| String | 4 | 17% |
+| Binary Search | 3 | 13% |
+| Database | 3 | 13% |
+| Prefix Sum | 3 | 13% |
 | Matrix | 2 | 9% |
 | Memoization | 2 | 9% |
 
@@ -48,7 +48,7 @@ Contains topicwise list of solved problems.
 | [Bit Manipulation](Topics/bit-manipulation/) | 0 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Database](Topics/database/) | 2 |
+| [Database](Topics/database/) | 3 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 10 |
 | [Graph](Topics/graph/) | 0 |
 | [Hash Table](Topics/hash-table/) | 1 |
