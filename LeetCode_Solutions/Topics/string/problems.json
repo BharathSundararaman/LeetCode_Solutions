@@ -4,8 +4,28 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-07-19T06:28:43.161Z",
+  "updatedAt": "2026-07-20T14:51:53.109Z",
   "problems": [
+    {
+      "frontendId": "22",
+      "title": "Generate Parentheses",
+      "slug": "generate-parentheses",
+      "problemName": "0022-generate-parentheses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/generate-parentheses/",
+      "folderPath": "LeetCode_Solutions/0022-generate-parentheses/",
+      "readmePath": "LeetCode_Solutions/0022-generate-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0022-generate-parentheses.java",
+          "path": "LeetCode_Solutions/0022-generate-parentheses/0022-generate-parentheses.java",
+          "sha": "f11ca9dae5a2e8811f7ea052776d95f3943f2c5b",
+          "lastSyncedAt": "2026-07-20T14:51:53.109Z"
+        }
+      ]
+    },
     {
       "frontendId": "58",
       "title": "Length of Last Word",
