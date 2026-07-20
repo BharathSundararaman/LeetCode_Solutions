@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 21 | 10 | 11 | 0 |
+| 22 | 10 | 12 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 5 days | 5 days | 5 |
+| 6 days | 6 days | 6 |
 
 | Date | Problems |
 | --- | ---: |
@@ -20,35 +20,36 @@ Contains topicwise list of solved problems.
 | 2026-07-17 | 7 |
 | 2026-07-18 | 5 |
 | 2026-07-19 | 3 |
+| 2026-07-20 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 12 | 57% |
-| Dynamic Programming | 9 | 43% |
-| Math | 5 | 24% |
-| Sliding Window | 4 | 19% |
+| Array | 12 | 55% |
+| Dynamic Programming | 10 | 45% |
+| Math | 5 | 23% |
+| Sliding Window | 4 | 18% |
+| String | 4 | 18% |
 | Binary Search | 3 | 14% |
 | Prefix Sum | 3 | 14% |
-| String | 3 | 14% |
-| Database | 2 | 10% |
-| Matrix | 2 | 10% |
-| Memoization | 2 | 10% |
+| Database | 2 | 9% |
+| Matrix | 2 | 9% |
+| Memoization | 2 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Array](Topics/array/) | 12 |
-| [Backtracking](Topics/backtracking/) | 0 |
+| [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 0 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Database](Topics/database/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 9 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 10 |
 | [Graph](Topics/graph/) | 0 |
 | [Hash Table](Topics/hash-table/) | 1 |
 | [Heap](Topics/heap/) | 0 |
@@ -62,6 +63,6 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 4 |
 | [Sorting](Topics/sorting/) | 0 |
 | [Stack](Topics/stack/) | 0 |
-| [String](Topics/string/) | 3 |
+| [String](Topics/string/) | 4 |
 | [Two Pointers](Topics/two-pointers/) | 1 |
 <!---LeetHub Summary End-->
