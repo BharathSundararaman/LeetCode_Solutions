@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-19T12:04:44.334Z",
+  "updatedAt": "2026-07-21T10:21:41.132Z",
   "problems": [
     {
       "frontendId": "64",
@@ -23,6 +23,26 @@
           "path": "LeetCode_Solutions/0064-minimum-path-sum/0064-minimum-path-sum.java",
           "sha": "eaa850c7ddeb8692e5362b1fde3c02caad395e0b",
           "lastSyncedAt": "2026-07-19T06:27:55.025Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "78",
+      "title": "Subsets",
+      "slug": "subsets",
+      "problemName": "0078-subsets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subsets/",
+      "folderPath": "LeetCode_Solutions/0078-subsets/",
+      "readmePath": "LeetCode_Solutions/0078-subsets/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0078-subsets.java",
+          "path": "LeetCode_Solutions/0078-subsets/0078-subsets.java",
+          "sha": "4da08bccbd013237e2b1800864b245f4f4c70697",
+          "lastSyncedAt": "2026-07-21T10:21:41.132Z"
         }
       ]
     },
