@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 31 | 15 | 16 | 0 |
+| 32 | 16 | 16 | 0 |
 
 ## Activity
 
@@ -22,22 +22,22 @@ Contains topicwise list of solved problems.
 | 2026-07-19 | 3 |
 | 2026-07-20 | 4 |
 | 2026-07-21 | 3 |
-| 2026-07-22 | 3 |
+| 2026-07-22 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 16 | 52% |
-| Dynamic Programming | 10 | 32% |
-| Database | 7 | 23% |
+| Array | 16 | 50% |
+| Dynamic Programming | 10 | 31% |
+| Database | 8 | 25% |
 | Backtracking | 5 | 16% |
 | Math | 5 | 16% |
 | String | 5 | 16% |
 | Sliding Window | 4 | 13% |
-| Binary Search | 3 | 10% |
-| Matrix | 3 | 10% |
-| Prefix Sum | 3 | 10% |
+| Binary Search | 3 | 9% |
+| Matrix | 3 | 9% |
+| Prefix Sum | 3 | 9% |
 
 ## Topics
 
@@ -50,7 +50,7 @@ Contains topicwise list of solved problems.
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Database](Topics/database/) | 7 |
+| [Database](Topics/database/) | 8 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 10 |
 | [Graph](Topics/graph/) | 0 |
