@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-07-21T14:01:34.380Z",
+  "updatedAt": "2026-07-22T14:25:11.723Z",
   "problems": [
     {
       "frontendId": "175",
@@ -83,6 +83,26 @@
           "path": "LeetCode_Solutions/1068-product-sales-analysis-i/1068-product-sales-analysis-i.sql",
           "sha": "68ca6352c382981dbf08dc9726d60e62690410ff",
           "lastSyncedAt": "2026-07-20T15:01:26.384Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1280",
+      "title": "Students and Examinations",
+      "slug": "students-and-examinations",
+      "problemName": "1280-students-and-examinations",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/students-and-examinations/",
+      "folderPath": "LeetCode_Solutions/1280-students-and-examinations/",
+      "readmePath": "LeetCode_Solutions/1280-students-and-examinations/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1280-students-and-examinations.sql",
+          "path": "LeetCode_Solutions/1280-students-and-examinations/1280-students-and-examinations.sql",
+          "sha": "405f4f528d7b17609e642238e5f0222cb7fdb792",
+          "lastSyncedAt": "2026-07-22T14:25:11.723Z"
         }
       ]
     },
