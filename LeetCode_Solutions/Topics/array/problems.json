@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-21T10:21:41.132Z",
+  "updatedAt": "2026-07-22T02:37:44.769Z",
   "problems": [
+    {
+      "frontendId": "39",
+      "title": "Combination Sum",
+      "slug": "combination-sum",
+      "problemName": "0039-combination-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/combination-sum/",
+      "folderPath": "LeetCode_Solutions/0039-combination-sum/",
+      "readmePath": "LeetCode_Solutions/0039-combination-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0039-combination-sum.java",
+          "path": "LeetCode_Solutions/0039-combination-sum/0039-combination-sum.java",
+          "sha": "f0e922a4eec7a181f4ce61784e3a0fb9ff08d931",
+          "lastSyncedAt": "2026-07-22T02:37:44.769Z"
+        }
+      ]
+    },
     {
       "frontendId": "64",
       "title": "Minimum Path Sum",
