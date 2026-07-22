@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0416-partition-equal-subset-sum](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 ## Dynamic Programming
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0079-word-search) |
 ## Backtracking
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0079-word-search) |
 ## Database
 |  |
 | ------- |
@@ -40,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0078-subsets) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
