@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-07-20T14:51:53.109Z",
+  "updatedAt": "2026-07-22T11:28:57.759Z",
   "problems": [
     {
       "frontendId": "22",
@@ -43,6 +43,26 @@
           "path": "LeetCode_Solutions/0058-length-of-last-word/0058-length-of-last-word.java",
           "sha": "aecda5b86edf204b14fe88ce85b488d4871a2993",
           "lastSyncedAt": "2026-07-19T06:28:38.200Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "79",
+      "title": "Word Search",
+      "slug": "word-search",
+      "problemName": "0079-word-search",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/word-search/",
+      "folderPath": "LeetCode_Solutions/0079-word-search/",
+      "readmePath": "LeetCode_Solutions/0079-word-search/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0079-word-search.java",
+          "path": "LeetCode_Solutions/0079-word-search/0079-word-search.java",
+          "sha": "b00d5f9a3605821857d8835bc46c394c341181fc",
+          "lastSyncedAt": "2026-07-22T11:28:57.759Z"
         }
       ]
     },
