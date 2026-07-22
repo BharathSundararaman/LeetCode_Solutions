@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 28 | 15 | 13 | 0 |
+| 29 | 15 | 14 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 7 days | 7 days | 7 |
+| 8 days | 8 days | 8 |
 
 | Date | Problems |
 | --- | ---: |
@@ -22,28 +22,29 @@ Contains topicwise list of solved problems.
 | 2026-07-19 | 3 |
 | 2026-07-20 | 4 |
 | 2026-07-21 | 3 |
+| 2026-07-22 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 13 | 46% |
-| Dynamic Programming | 10 | 36% |
-| Database | 7 | 25% |
-| Math | 5 | 18% |
+| Array | 14 | 48% |
+| Dynamic Programming | 10 | 34% |
+| Database | 7 | 24% |
+| Math | 5 | 17% |
 | Sliding Window | 4 | 14% |
 | String | 4 | 14% |
-| Binary Search | 3 | 11% |
-| Prefix Sum | 3 | 11% |
-| Backtracking | 2 | 7% |
+| Backtracking | 3 | 10% |
+| Binary Search | 3 | 10% |
+| Prefix Sum | 3 | 10% |
 | Matrix | 2 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 13 |
-| [Backtracking](Topics/backtracking/) | 2 |
+| [Array](Topics/array/) | 14 |
+| [Backtracking](Topics/backtracking/) | 3 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
