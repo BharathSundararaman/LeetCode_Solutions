@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "depth-first-search",
+    "name": "Depth-First Search"
+  },
+  "updatedAt": "2026-07-22T11:28:57.759Z",
+  "problems": [
+    {
+      "frontendId": "79",
+      "title": "Word Search",
+      "slug": "word-search",
+      "problemName": "0079-word-search",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/word-search/",
+      "folderPath": "LeetCode_Solutions/0079-word-search/",
+      "readmePath": "LeetCode_Solutions/0079-word-search/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0079-word-search.java",
+          "path": "LeetCode_Solutions/0079-word-search/0079-word-search.java",
+          "sha": "b00d5f9a3605821857d8835bc46c394c341181fc",
+          "lastSyncedAt": "2026-07-22T11:28:57.759Z"
+        }
+      ]
+    }
+  ]
+}
