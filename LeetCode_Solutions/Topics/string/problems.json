@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-07-22T11:28:57.759Z",
+  "updatedAt": "2026-07-23T10:20:19.676Z",
   "problems": [
     {
       "frontendId": "22",
@@ -83,6 +83,26 @@
           "path": "LeetCode_Solutions/0091-decode-ways/0091-decode-ways.java",
           "sha": "ed8775c4e2dc0681caf46cc3bf247ca91660c1ef",
           "lastSyncedAt": "2026-07-19T06:28:43.161Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "131",
+      "title": "Palindrome Partitioning",
+      "slug": "palindrome-partitioning",
+      "problemName": "0131-palindrome-partitioning",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-partitioning/",
+      "folderPath": "LeetCode_Solutions/0131-palindrome-partitioning/",
+      "readmePath": "LeetCode_Solutions/0131-palindrome-partitioning/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0131-palindrome-partitioning.java",
+          "path": "LeetCode_Solutions/0131-palindrome-partitioning/0131-palindrome-partitioning.java",
+          "sha": "c000864bb8480df859816cbc1eb9efa9fc34b678",
+          "lastSyncedAt": "2026-07-23T10:20:19.676Z"
         }
       ]
     },
