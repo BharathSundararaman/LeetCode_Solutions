@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 32 | 16 | 16 | 0 |
+| 33 | 16 | 17 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 8 days | 8 days | 8 |
+| 9 days | 9 days | 9 |
 
 | Date | Problems |
 | --- | ---: |
@@ -23,18 +23,19 @@ Contains topicwise list of solved problems.
 | 2026-07-20 | 4 |
 | 2026-07-21 | 3 |
 | 2026-07-22 | 4 |
+| 2026-07-23 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 16 | 50% |
-| Dynamic Programming | 10 | 31% |
-| Database | 8 | 25% |
-| Backtracking | 5 | 16% |
-| Math | 5 | 16% |
-| String | 5 | 16% |
-| Sliding Window | 4 | 13% |
+| Array | 16 | 48% |
+| Dynamic Programming | 11 | 33% |
+| Database | 8 | 24% |
+| Backtracking | 6 | 18% |
+| String | 6 | 18% |
+| Math | 5 | 15% |
+| Sliding Window | 4 | 12% |
 | Binary Search | 3 | 9% |
 | Matrix | 3 | 9% |
 | Prefix Sum | 3 | 9% |
@@ -44,7 +45,7 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [Array](Topics/array/) | 16 |
-| [Backtracking](Topics/backtracking/) | 5 |
+| [Backtracking](Topics/backtracking/) | 6 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
@@ -52,7 +53,7 @@ Contains topicwise list of solved problems.
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Database](Topics/database/) | 8 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 10 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 11 |
 | [Graph](Topics/graph/) | 0 |
 | [Hash Table](Topics/hash-table/) | 1 |
 | [Heap](Topics/heap/) | 0 |
@@ -66,6 +67,6 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 4 |
 | [Sorting](Topics/sorting/) | 0 |
 | [Stack](Topics/stack/) | 0 |
-| [String](Topics/string/) | 5 |
+| [String](Topics/string/) | 6 |
 | [Two Pointers](Topics/two-pointers/) | 1 |
 <!---LeetHub Summary End-->
