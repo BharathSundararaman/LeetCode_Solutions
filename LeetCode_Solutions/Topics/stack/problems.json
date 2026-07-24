@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-07-24T10:24:46.769Z",
+  "updatedAt": "2026-07-24T10:27:44.687Z",
   "problems": [
     {
       "frontendId": "94",
@@ -43,6 +43,26 @@
           "path": "LeetCode_Solutions/0144-binary-tree-preorder-traversal/0144-binary-tree-preorder-traversal.java",
           "sha": "179cab90918f2adeaa1710bc3f7c068308ff07d4",
           "lastSyncedAt": "2026-07-24T10:20:13.141Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "145",
+      "title": "Binary Tree Postorder Traversal",
+      "slug": "binary-tree-postorder-traversal",
+      "problemName": "0145-binary-tree-postorder-traversal",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+      "folderPath": "LeetCode_Solutions/0145-binary-tree-postorder-traversal/",
+      "readmePath": "LeetCode_Solutions/0145-binary-tree-postorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0145-binary-tree-postorder-traversal.java",
+          "path": "LeetCode_Solutions/0145-binary-tree-postorder-traversal/0145-binary-tree-postorder-traversal.java",
+          "sha": "737a4d4572ab0212f9d9b875b1676421e529d268",
+          "lastSyncedAt": "2026-07-24T10:27:44.687Z"
         }
       ]
     }
