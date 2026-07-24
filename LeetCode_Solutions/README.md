@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 38 | 20 | 17 | 1 |
+| 39 | 20 | 18 | 1 |
 
 ## Activity
 
@@ -24,22 +24,22 @@ Contains topicwise list of solved problems.
 | 2026-07-21 | 3 |
 | 2026-07-22 | 4 |
 | 2026-07-23 | 2 |
-| 2026-07-24 | 4 |
+| 2026-07-24 | 5 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 17 | 45% |
-| Dynamic Programming | 11 | 29% |
-| Database | 9 | 24% |
+| Array | 17 | 44% |
+| Dynamic Programming | 11 | 28% |
+| Database | 9 | 23% |
 | Backtracking | 7 | 18% |
-| String | 6 | 16% |
+| String | 6 | 15% |
 | Math | 5 | 13% |
-| Depth-First Search | 4 | 11% |
-| Matrix | 4 | 11% |
-| Sliding Window | 4 | 11% |
-| Binary Search | 3 | 8% |
+| Binary Tree | 4 | 10% |
+| Depth-First Search | 4 | 10% |
+| Matrix | 4 | 10% |
+| Sliding Window | 4 | 10% |
 
 ## Topics
 
@@ -48,8 +48,9 @@ Contains topicwise list of solved problems.
 | [Array](Topics/array/) | 17 |
 | [Backtracking](Topics/backtracking/) | 7 |
 | [Binary Search](Topics/binary-search/) | 3 |
-| [Binary Tree](Topics/binary-tree/) | 3 |
+| [Binary Tree](Topics/binary-tree/) | 4 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Database](Topics/database/) | 9 |
@@ -69,6 +70,6 @@ Contains topicwise list of solved problems.
 | [Sorting](Topics/sorting/) | 0 |
 | [Stack](Topics/stack/) | 3 |
 | [String](Topics/string/) | 6 |
-| [Tree](Topics/tree/) | 3 |
+| [Tree](Topics/tree/) | 4 |
 | [Two Pointers](Topics/two-pointers/) | 1 |
 <!---LeetHub Summary End-->
