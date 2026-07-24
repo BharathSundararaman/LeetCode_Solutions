@@ -4,8 +4,28 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-07-22T11:28:57.759Z",
+  "updatedAt": "2026-07-24T01:36:30.368Z",
   "problems": [
+    {
+      "frontendId": "37",
+      "title": "Sudoku Solver",
+      "slug": "sudoku-solver",
+      "problemName": "0037-sudoku-solver",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sudoku-solver/",
+      "folderPath": "LeetCode_Solutions/0037-sudoku-solver/",
+      "readmePath": "LeetCode_Solutions/0037-sudoku-solver/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0037-sudoku-solver.java",
+          "path": "LeetCode_Solutions/0037-sudoku-solver/0037-sudoku-solver.java",
+          "sha": "1a1f8eb1e396b14309d14433489ae346b12f3de6",
+          "lastSyncedAt": "2026-07-24T01:36:30.368Z"
+        }
+      ]
+    },
     {
       "frontendId": "64",
       "title": "Minimum Path Sum",
