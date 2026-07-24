@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Matrix
 |  |
@@ -71,13 +72,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
