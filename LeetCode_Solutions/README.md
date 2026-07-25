@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 40 | 20 | 19 | 1 |
+| 41 | 21 | 19 | 1 |
 
 ## Activity
 
@@ -25,21 +25,21 @@ Contains topicwise list of solved problems.
 | 2026-07-22 | 4 |
 | 2026-07-23 | 2 |
 | 2026-07-24 | 5 |
-| 2026-07-25 | 1 |
+| 2026-07-25 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 17 | 43% |
-| Dynamic Programming | 11 | 28% |
-| Database | 9 | 23% |
-| Backtracking | 7 | 18% |
+| Array | 17 | 41% |
+| Dynamic Programming | 11 | 27% |
+| Database | 9 | 22% |
+| Backtracking | 7 | 17% |
+| Binary Tree | 6 | 15% |
+| Depth-First Search | 6 | 15% |
 | String | 6 | 15% |
-| Binary Tree | 5 | 13% |
-| Depth-First Search | 5 | 13% |
-| Math | 5 | 13% |
-| Tree | 5 | 13% |
+| Tree | 6 | 15% |
+| Math | 5 | 12% |
 | Matrix | 4 | 10% |
 
 ## Topics
@@ -49,13 +49,13 @@ Contains topicwise list of solved problems.
 | [Array](Topics/array/) | 17 |
 | [Backtracking](Topics/backtracking/) | 7 |
 | [Binary Search](Topics/binary-search/) | 3 |
-| [Binary Tree](Topics/binary-tree/) | 5 |
+| [Binary Tree](Topics/binary-tree/) | 6 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 1 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 2 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Database](Topics/database/) | 9 |
-| [Depth-First Search](Topics/depth-first-search/) | 5 |
+| [Depth-First Search](Topics/depth-first-search/) | 6 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 11 |
 | [Graph](Topics/graph/) | 0 |
 | [Hash Table](Topics/hash-table/) | 2 |
@@ -71,6 +71,6 @@ Contains topicwise list of solved problems.
 | [Sorting](Topics/sorting/) | 0 |
 | [Stack](Topics/stack/) | 3 |
 | [String](Topics/string/) | 6 |
-| [Tree](Topics/tree/) | 5 |
+| [Tree](Topics/tree/) | 6 |
 | [Two Pointers](Topics/two-pointers/) | 1 |
 <!---LeetHub Summary End-->
