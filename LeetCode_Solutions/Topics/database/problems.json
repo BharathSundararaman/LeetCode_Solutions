@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-07-26T06:19:22.033Z",
+  "updatedAt": "2026-07-27T14:22:23.729Z",
   "problems": [
     {
       "frontendId": "175",
@@ -203,6 +203,26 @@
           "path": "LeetCode_Solutions/1757-recyclable-and-low-fat-products/1757-recyclable-and-low-fat-products.sql",
           "sha": "435f33e3562ea3ac9aa656abe0d297a19cf25256",
           "lastSyncedAt": "2026-07-19T06:27:42.688Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2356",
+      "title": "Number of Unique Subjects Taught by Each Teacher",
+      "slug": "number-of-unique-subjects-taught-by-each-teacher",
+      "problemName": "2356-number-of-unique-subjects-taught-by-each-teacher",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/",
+      "folderPath": "LeetCode_Solutions/2356-number-of-unique-subjects-taught-by-each-teacher/",
+      "readmePath": "LeetCode_Solutions/2356-number-of-unique-subjects-taught-by-each-teacher/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "2356-number-of-unique-subjects-taught-by-each-teacher.sql",
+          "path": "LeetCode_Solutions/2356-number-of-unique-subjects-taught-by-each-teacher/2356-number-of-unique-subjects-taught-by-each-teacher.sql",
+          "sha": "6d7ff79f4717cf65b380a527c4238fb4feb9234a",
+          "lastSyncedAt": "2026-07-27T14:22:23.729Z"
         }
       ]
     }
