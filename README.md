@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0226-invert-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
