@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-24T01:36:30.368Z",
+  "updatedAt": "2026-07-28T09:54:50.234Z",
   "problems": [
+    {
+      "frontendId": "31",
+      "title": "Next Permutation",
+      "slug": "next-permutation",
+      "problemName": "0031-next-permutation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/next-permutation/",
+      "folderPath": "LeetCode_Solutions/0031-next-permutation/",
+      "readmePath": "LeetCode_Solutions/0031-next-permutation/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0031-next-permutation.java",
+          "path": "LeetCode_Solutions/0031-next-permutation/0031-next-permutation.java",
+          "sha": "e920538754e0252e60d5e3b2747b41f5cae76e70",
+          "lastSyncedAt": "2026-07-28T09:54:50.234Z"
+        }
+      ]
+    },
     {
       "frontendId": "37",
       "title": "Sudoku Solver",
