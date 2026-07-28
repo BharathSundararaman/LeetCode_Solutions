@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-07-28T10:44:26.583Z",
+  "updatedAt": "2026-07-28T11:25:25.835Z",
   "problems": [
     {
       "frontendId": "435",
@@ -23,6 +23,26 @@
           "path": "LeetCode_Solutions/0435-non-overlapping-intervals/0435-non-overlapping-intervals.java",
           "sha": "56c3ca1e6026995829bb87f74cd798cce8f7b05d",
           "lastSyncedAt": "2026-07-28T10:44:26.583Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "860",
+      "title": "Lemonade Change",
+      "slug": "lemonade-change",
+      "problemName": "0860-lemonade-change",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/lemonade-change/",
+      "folderPath": "LeetCode_Solutions/0860-lemonade-change/",
+      "readmePath": "LeetCode_Solutions/0860-lemonade-change/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0860-lemonade-change.java",
+          "path": "LeetCode_Solutions/0860-lemonade-change/0860-lemonade-change.java",
+          "sha": "02b43e3ff36617630af1f4ec4d5019b3bae43093",
+          "lastSyncedAt": "2026-07-28T11:25:25.835Z"
         }
       ]
     }
