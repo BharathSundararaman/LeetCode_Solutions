@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-28T09:54:50.234Z",
+  "updatedAt": "2026-07-28T10:44:26.583Z",
   "problems": [
     {
       "frontendId": "31",
@@ -223,6 +223,26 @@
           "path": "LeetCode_Solutions/0416-partition-equal-subset-sum/0416-partition-equal-subset-sum.java",
           "sha": "46f80ae6655198e18555be316e48bb1b22d5de57",
           "lastSyncedAt": "2026-07-19T12:04:44.334Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "435",
+      "title": "Non-overlapping Intervals",
+      "slug": "non-overlapping-intervals",
+      "problemName": "0435-non-overlapping-intervals",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/non-overlapping-intervals/",
+      "folderPath": "LeetCode_Solutions/0435-non-overlapping-intervals/",
+      "readmePath": "LeetCode_Solutions/0435-non-overlapping-intervals/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0435-non-overlapping-intervals.java",
+          "path": "LeetCode_Solutions/0435-non-overlapping-intervals/0435-non-overlapping-intervals.java",
+          "sha": "56c3ca1e6026995829bb87f74cd798cce8f7b05d",
+          "lastSyncedAt": "2026-07-28T10:44:26.583Z"
         }
       ]
     },
