@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-28T11:25:25.835Z",
+  "updatedAt": "2026-07-29T01:57:20.463Z",
   "problems": [
     {
       "frontendId": "31",
@@ -83,6 +83,26 @@
           "path": "LeetCode_Solutions/0040-combination-sum-ii/0040-combination-sum-ii.java",
           "sha": "a0be8c48d5c9ed283993f1a660cb079cfe5edfb8",
           "lastSyncedAt": "2026-07-22T02:55:59.358Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "53",
+      "title": "Maximum Subarray",
+      "slug": "maximum-subarray",
+      "problemName": "0053-maximum-subarray",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray/",
+      "folderPath": "LeetCode_Solutions/0053-maximum-subarray/",
+      "readmePath": "LeetCode_Solutions/0053-maximum-subarray/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0053-maximum-subarray.java",
+          "path": "LeetCode_Solutions/0053-maximum-subarray/0053-maximum-subarray.java",
+          "sha": "a7fd350aa6171789ec1e3c48fe6f0cf6c446496d",
+          "lastSyncedAt": "2026-07-29T01:57:20.463Z"
         }
       ]
     },
