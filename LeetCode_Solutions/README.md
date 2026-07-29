@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 50 | 28 | 21 | 1 |
+| 51 | 28 | 22 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 14 days | 14 days | 14 |
+| 15 days | 15 days | 15 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-07-15 | 3 |
 | 2026-07-16 | 3 |
 | 2026-07-17 | 7 |
 | 2026-07-18 | 5 |
@@ -29,14 +28,15 @@ Contains topicwise list of solved problems.
 | 2026-07-26 | 1 |
 | 2026-07-27 | 2 |
 | 2026-07-28 | 3 |
+| 2026-07-29 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 20 | 40% |
+| Array | 21 | 41% |
+| Dynamic Programming | 13 | 25% |
 | Database | 12 | 24% |
-| Dynamic Programming | 12 | 24% |
 | Binary Tree | 9 | 18% |
 | Depth-First Search | 9 | 18% |
 | Tree | 9 | 18% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 20 |
+| [Array](Topics/array/) | 21 |
 | [Backtracking](Topics/backtracking/) | 7 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Tree](Topics/binary-tree/) | 9 |
@@ -59,7 +59,8 @@ Contains topicwise list of solved problems.
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Database](Topics/database/) | 12 |
 | [Depth-First Search](Topics/depth-first-search/) | 9 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 12 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 13 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 2 |
 | [Hash Table](Topics/hash-table/) | 2 |
