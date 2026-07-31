@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-07-28T11:25:25.835Z",
+  "updatedAt": "2026-07-31T00:49:35.160Z",
   "problems": [
     {
       "frontendId": "435",
@@ -43,6 +43,26 @@
           "path": "LeetCode_Solutions/0860-lemonade-change/0860-lemonade-change.java",
           "sha": "02b43e3ff36617630af1f4ec4d5019b3bae43093",
           "lastSyncedAt": "2026-07-28T11:25:25.835Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "976",
+      "title": "Largest Perimeter Triangle",
+      "slug": "largest-perimeter-triangle",
+      "problemName": "0976-largest-perimeter-triangle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-perimeter-triangle/",
+      "folderPath": "LeetCode_Solutions/0976-largest-perimeter-triangle/",
+      "readmePath": "LeetCode_Solutions/0976-largest-perimeter-triangle/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0976-largest-perimeter-triangle.java",
+          "path": "LeetCode_Solutions/0976-largest-perimeter-triangle/0976-largest-perimeter-triangle.java",
+          "sha": "821dfa6ef43e7fe45569d9d7e60be312b014d0f0",
+          "lastSyncedAt": "2026-07-31T00:49:35.160Z"
         }
       ]
     }
