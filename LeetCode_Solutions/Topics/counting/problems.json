@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "counting",
+    "name": "Counting"
+  },
+  "updatedAt": "2026-08-01T10:46:40.748Z",
+  "problems": [
+    {
+      "frontendId": "1854",
+      "title": "Maximum Population Year",
+      "slug": "maximum-population-year",
+      "problemName": "1854-maximum-population-year",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-population-year/",
+      "folderPath": "LeetCode_Solutions/1854-maximum-population-year/",
+      "readmePath": "LeetCode_Solutions/1854-maximum-population-year/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1854-maximum-population-year.java",
+          "path": "LeetCode_Solutions/1854-maximum-population-year/1854-maximum-population-year.java",
+          "sha": "b6b5aed25c6f5b9d3713f3ca953efbd8bf2e7691",
+          "lastSyncedAt": "2026-08-01T10:46:40.748Z"
+        }
+      ]
+    }
+  ]
+}
