@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1014-best-sightseeing-pair](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/1014-best-sightseeing-pair) |
+| [1480-running-sum-of-1d-array](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -144,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0976-largest-perimeter-triangle) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
