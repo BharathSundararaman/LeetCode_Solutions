@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0416-partition-equal-subset-sum](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0724-find-pivot-index](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0976-largest-perimeter-triangle](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1014-best-sightseeing-pair](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/1014-best-sightseeing-pair) |
 | [1480-running-sum-of-1d-array](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -148,5 +149,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
