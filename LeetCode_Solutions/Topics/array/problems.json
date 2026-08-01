@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-31T00:49:35.160Z",
+  "updatedAt": "2026-08-01T10:01:40.064Z",
   "problems": [
     {
       "frontendId": "31",
@@ -403,6 +403,26 @@
           "path": "LeetCode_Solutions/1089-duplicate-zeros/1089-duplicate-zeros.java",
           "sha": "dba40c12b7ea4c4f38946a71ba7918722022d236",
           "lastSyncedAt": "2026-07-19T06:28:29.977Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1480",
+      "title": "Running Sum of 1d Array",
+      "slug": "running-sum-of-1d-array",
+      "problemName": "1480-running-sum-of-1d-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/running-sum-of-1d-array/",
+      "folderPath": "LeetCode_Solutions/1480-running-sum-of-1d-array/",
+      "readmePath": "LeetCode_Solutions/1480-running-sum-of-1d-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1480-running-sum-of-1d-array.java",
+          "path": "LeetCode_Solutions/1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.java",
+          "sha": "753d55d186163b73df708c3f94b5f56b7a19fd09",
+          "lastSyncedAt": "2026-08-01T10:01:40.064Z"
         }
       ]
     },
