@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 53 | 30 | 22 | 1 |
+| 54 | 31 | 22 | 1 |
 
 ## Activity
 
@@ -28,15 +28,15 @@ Contains topicwise list of solved problems.
 | 2026-07-28 | 3 |
 | 2026-07-29 | 1 |
 | 2026-07-31 | 1 |
-| 2026-08-01 | 1 |
+| 2026-08-01 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 23 | 43% |
-| Dynamic Programming | 13 | 25% |
-| Database | 12 | 23% |
+| Array | 24 | 44% |
+| Dynamic Programming | 13 | 24% |
+| Database | 12 | 22% |
 | Binary Tree | 9 | 17% |
 | Depth-First Search | 9 | 17% |
 | Tree | 9 | 17% |
@@ -49,13 +49,14 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 23 |
+| [Array](Topics/array/) | 24 |
 | [Backtracking](Topics/backtracking/) | 7 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Tree](Topics/binary-tree/) | 9 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 5 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
+| [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Database](Topics/database/) | 12 |
 | [Depth-First Search](Topics/depth-first-search/) | 9 |
@@ -70,7 +71,7 @@ Contains topicwise list of solved problems.
 | [Matrix](Topics/matrix/) | 4 |
 | [Memoization](Topics/memoization/) | 2 |
 | [Number Theory](Topics/number-theory/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 4 |
+| [Prefix Sum](Topics/prefix-sum/) | 5 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 4 |
 | [Sorting](Topics/sorting/) | 2 |
