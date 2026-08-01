@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-07-19T06:30:12.449Z",
+  "updatedAt": "2026-08-01T10:01:40.064Z",
   "problems": [
     {
       "frontendId": "209",
@@ -63,6 +63,26 @@
           "path": "LeetCode_Solutions/1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.java",
           "sha": "9138b7b95578cc2bdeb01c73ff52f303d7747a1b",
           "lastSyncedAt": "2026-07-19T06:29:52.773Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1480",
+      "title": "Running Sum of 1d Array",
+      "slug": "running-sum-of-1d-array",
+      "problemName": "1480-running-sum-of-1d-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/running-sum-of-1d-array/",
+      "folderPath": "LeetCode_Solutions/1480-running-sum-of-1d-array/",
+      "readmePath": "LeetCode_Solutions/1480-running-sum-of-1d-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1480-running-sum-of-1d-array.java",
+          "path": "LeetCode_Solutions/1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.java",
+          "sha": "753d55d186163b73df708c3f94b5f56b7a19fd09",
+          "lastSyncedAt": "2026-08-01T10:01:40.064Z"
         }
       ]
     }
