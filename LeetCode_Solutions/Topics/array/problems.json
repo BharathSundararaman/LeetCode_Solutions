@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-02T11:57:38.920Z",
+  "updatedAt": "2026-08-02T14:12:45.467Z",
   "problems": [
     {
       "frontendId": "31",
@@ -343,6 +343,26 @@
           "path": "LeetCode_Solutions/0860-lemonade-change/0860-lemonade-change.java",
           "sha": "02b43e3ff36617630af1f4ec4d5019b3bae43093",
           "lastSyncedAt": "2026-07-28T11:25:25.835Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "877",
+      "title": "Stone Game",
+      "slug": "stone-game",
+      "problemName": "0877-stone-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game/",
+      "folderPath": "LeetCode_Solutions/0877-stone-game/",
+      "readmePath": "LeetCode_Solutions/0877-stone-game/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0877-stone-game.java",
+          "path": "LeetCode_Solutions/0877-stone-game/0877-stone-game.java",
+          "sha": "f58319ce981893e8dbd119b9be5aa4bb18c16870",
+          "lastSyncedAt": "2026-08-02T14:12:45.467Z"
         }
       ]
     },
