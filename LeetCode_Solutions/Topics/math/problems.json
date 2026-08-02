@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-02T11:21:46.034Z",
+  "updatedAt": "2026-08-02T11:57:38.920Z",
   "problems": [
     {
       "frontendId": "62",
@@ -123,6 +123,26 @@
           "path": "LeetCode_Solutions/0976-largest-perimeter-triangle/0976-largest-perimeter-triangle.java",
           "sha": "821dfa6ef43e7fe45569d9d7e60be312b014d0f0",
           "lastSyncedAt": "2026-07-31T00:49:35.160Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1979",
+      "title": "Find Greatest Common Divisor of Array",
+      "slug": "find-greatest-common-divisor-of-array",
+      "problemName": "1979-find-greatest-common-divisor-of-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-greatest-common-divisor-of-array/",
+      "folderPath": "LeetCode_Solutions/1979-find-greatest-common-divisor-of-array/",
+      "readmePath": "LeetCode_Solutions/1979-find-greatest-common-divisor-of-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1979-find-greatest-common-divisor-of-array.java",
+          "path": "LeetCode_Solutions/1979-find-greatest-common-divisor-of-array/1979-find-greatest-common-divisor-of-array.java",
+          "sha": "eab070447bd1231b1a334469f5f4c613d59e426c",
+          "lastSyncedAt": "2026-08-02T11:57:38.920Z"
         }
       ]
     },
