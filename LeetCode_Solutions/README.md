@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 55 | 32 | 22 | 1 |
+| 56 | 33 | 22 | 1 |
 
 ## Activity
 
@@ -28,7 +28,7 @@ Contains topicwise list of solved problems.
 | 2026-07-29 | 1 |
 | 2026-07-31 | 1 |
 | 2026-08-01 | 2 |
-| 2026-08-02 | 1 |
+| 2026-08-02 | 2 |
 
 ## Top Tags
 
@@ -36,12 +36,12 @@ Contains topicwise list of solved problems.
 | --- | ---: | ---: |
 | Array | 25 | 45% |
 | Dynamic Programming | 14 | 25% |
-| Database | 12 | 22% |
+| Database | 12 | 21% |
 | Binary Tree | 9 | 16% |
 | Depth-First Search | 9 | 16% |
 | Tree | 9 | 16% |
 | Backtracking | 7 | 13% |
-| Math | 6 | 11% |
+| Math | 7 | 13% |
 | String | 6 | 11% |
 | Breadth-First Search | 5 | 9% |
 
@@ -67,7 +67,7 @@ Contains topicwise list of solved problems.
 | [Hash Table](Topics/hash-table/) | 2 |
 | [Heap](Topics/heap/) | 0 |
 | [Linked List](Topics/linked-list/) | 0 |
-| [Math](Topics/math/) | 6 |
+| [Math](Topics/math/) | 7 |
 | [Matrix](Topics/matrix/) | 4 |
 | [Memoization](Topics/memoization/) | 2 |
 | [Number Theory](Topics/number-theory/) | 1 |
