@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-01T10:46:40.748Z",
+  "updatedAt": "2026-08-02T10:23:51.848Z",
   "problems": [
     {
       "frontendId": "31",
@@ -163,6 +163,26 @@
           "path": "LeetCode_Solutions/0079-word-search/0079-word-search.java",
           "sha": "b00d5f9a3605821857d8835bc46c394c341181fc",
           "lastSyncedAt": "2026-07-22T11:28:57.759Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "118",
+      "title": "Pascal's Triangle",
+      "slug": "pascals-triangle",
+      "problemName": "0118-pascals-triangle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/pascals-triangle/",
+      "folderPath": "LeetCode_Solutions/0118-pascals-triangle/",
+      "readmePath": "LeetCode_Solutions/0118-pascals-triangle/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0118-pascals-triangle.java",
+          "path": "LeetCode_Solutions/0118-pascals-triangle/0118-pascals-triangle.java",
+          "sha": "4c7ecb2e4eb9c7277888442c469ef12253a8f977",
+          "lastSyncedAt": "2026-08-02T10:23:51.848Z"
         }
       ]
     },
