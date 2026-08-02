@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-02T11:20:52.715Z",
+  "updatedAt": "2026-08-02T11:21:46.034Z",
   "problems": [
     {
       "frontendId": "62",
@@ -82,7 +82,7 @@
           "filename": "0507-perfect-number.java",
           "path": "LeetCode_Solutions/0507-perfect-number/0507-perfect-number.java",
           "sha": "c69afa1275ca6fec5e10f77f3273399ae74ea988",
-          "lastSyncedAt": "2026-08-02T11:20:52.715Z"
+          "lastSyncedAt": "2026-08-02T11:21:46.034Z"
         }
       ]
     },
