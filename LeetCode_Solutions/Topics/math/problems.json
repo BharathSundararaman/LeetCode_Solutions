@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-02T12:07:46.542Z",
+  "updatedAt": "2026-08-02T12:11:56.162Z",
   "problems": [
     {
       "frontendId": "62",
@@ -123,6 +123,26 @@
           "path": "LeetCode_Solutions/0976-largest-perimeter-triangle/0976-largest-perimeter-triangle.java",
           "sha": "821dfa6ef43e7fe45569d9d7e60be312b014d0f0",
           "lastSyncedAt": "2026-07-31T00:49:35.160Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1281",
+      "title": "Subtract the Product and Sum of Digits of an Integer",
+      "slug": "subtract-the-product-and-sum-of-digits-of-an-integer",
+      "problemName": "1281-subtract-the-product-and-sum-of-digits-of-an-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/",
+      "folderPath": "LeetCode_Solutions/1281-subtract-the-product-and-sum-of-digits-of-an-integer/",
+      "readmePath": "LeetCode_Solutions/1281-subtract-the-product-and-sum-of-digits-of-an-integer/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1281-subtract-the-product-and-sum-of-digits-of-an-integer.java",
+          "path": "LeetCode_Solutions/1281-subtract-the-product-and-sum-of-digits-of-an-integer/1281-subtract-the-product-and-sum-of-digits-of-an-integer.java",
+          "sha": "5a5fbbffda42d8b8f38b2c5e677c66674b88c258",
+          "lastSyncedAt": "2026-08-02T12:11:56.162Z"
         }
       ]
     },
