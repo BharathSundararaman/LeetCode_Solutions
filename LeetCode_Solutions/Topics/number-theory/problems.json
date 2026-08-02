@@ -4,8 +4,28 @@
     "slug": "number-theory",
     "name": "Number Theory"
   },
-  "updatedAt": "2026-07-19T06:29:27.648Z",
+  "updatedAt": "2026-08-02T11:57:38.920Z",
   "problems": [
+    {
+      "frontendId": "1979",
+      "title": "Find Greatest Common Divisor of Array",
+      "slug": "find-greatest-common-divisor-of-array",
+      "problemName": "1979-find-greatest-common-divisor-of-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-greatest-common-divisor-of-array/",
+      "folderPath": "LeetCode_Solutions/1979-find-greatest-common-divisor-of-array/",
+      "readmePath": "LeetCode_Solutions/1979-find-greatest-common-divisor-of-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1979-find-greatest-common-divisor-of-array.java",
+          "path": "LeetCode_Solutions/1979-find-greatest-common-divisor-of-array/1979-find-greatest-common-divisor-of-array.java",
+          "sha": "eab070447bd1231b1a334469f5f4c613d59e426c",
+          "lastSyncedAt": "2026-08-02T11:57:38.920Z"
+        }
+      ]
+    },
     {
       "frontendId": "3658",
       "title": "GCD of Odd and Even Sums",
