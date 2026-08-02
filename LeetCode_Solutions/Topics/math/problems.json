@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-07-31T00:49:35.160Z",
+  "updatedAt": "2026-08-02T11:20:52.715Z",
   "problems": [
     {
       "frontendId": "62",
@@ -63,6 +63,26 @@
           "path": "LeetCode_Solutions/0172-factorial-trailing-zeroes/0172-factorial-trailing-zeroes.java",
           "sha": "fa03de38095c6e23549b34c83d7e1be9d5f655be",
           "lastSyncedAt": "2026-07-19T06:29:35.003Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "507",
+      "title": "Perfect Number",
+      "slug": "perfect-number",
+      "problemName": "0507-perfect-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/perfect-number/",
+      "folderPath": "LeetCode_Solutions/0507-perfect-number/",
+      "readmePath": "LeetCode_Solutions/0507-perfect-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0507-perfect-number.java",
+          "path": "LeetCode_Solutions/0507-perfect-number/0507-perfect-number.java",
+          "sha": "c69afa1275ca6fec5e10f77f3273399ae74ea988",
+          "lastSyncedAt": "2026-08-02T11:20:52.715Z"
         }
       ]
     },
