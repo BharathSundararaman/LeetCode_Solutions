@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-best-sightseeing-pair](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/1014-best-sightseeing-pair) |
 | [1480-running-sum-of-1d-array](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1854-maximum-population-year](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/1854-maximum-population-year) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0507-perfect-number) |
 | [0976-largest-perimeter-triangle](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greedy
 |  |
 | ------- |
@@ -170,4 +172,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
