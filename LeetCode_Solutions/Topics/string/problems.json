@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-07-23T10:20:19.676Z",
+  "updatedAt": "2026-08-03T14:18:49.357Z",
   "problems": [
     {
       "frontendId": "22",
@@ -103,6 +103,26 @@
           "path": "LeetCode_Solutions/0131-palindrome-partitioning/0131-palindrome-partitioning.java",
           "sha": "c000864bb8480df859816cbc1eb9efa9fc34b678",
           "lastSyncedAt": "2026-07-23T10:20:19.676Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "434",
+      "title": "Number of Segments in a String",
+      "slug": "number-of-segments-in-a-string",
+      "problemName": "0434-number-of-segments-in-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-segments-in-a-string/",
+      "folderPath": "LeetCode_Solutions/0434-number-of-segments-in-a-string/",
+      "readmePath": "LeetCode_Solutions/0434-number-of-segments-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0434-number-of-segments-in-a-string.java",
+          "path": "LeetCode_Solutions/0434-number-of-segments-in-a-string/0434-number-of-segments-in-a-string.java",
+          "sha": "08846a81ce557ba405f6f2d8371fa905e096c066",
+          "lastSyncedAt": "2026-08-03T14:18:49.357Z"
         }
       ]
     },
