@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-02T14:12:45.467Z",
+  "updatedAt": "2026-08-03T13:39:01.649Z",
   "problems": [
     {
       "frontendId": "62",
@@ -63,6 +63,26 @@
           "path": "LeetCode_Solutions/0172-factorial-trailing-zeroes/0172-factorial-trailing-zeroes.java",
           "sha": "fa03de38095c6e23549b34c83d7e1be9d5f655be",
           "lastSyncedAt": "2026-07-19T06:29:35.003Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "258",
+      "title": "Add Digits",
+      "slug": "add-digits",
+      "problemName": "0258-add-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-digits/",
+      "folderPath": "LeetCode_Solutions/0258-add-digits/",
+      "readmePath": "LeetCode_Solutions/0258-add-digits/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0258-add-digits.java",
+          "path": "LeetCode_Solutions/0258-add-digits/0258-add-digits.java",
+          "sha": "7d16013688d6a7d5dd7da5d3c566ad977dfdabd2",
+          "lastSyncedAt": "2026-08-03T13:39:01.649Z"
         }
       ]
     },
