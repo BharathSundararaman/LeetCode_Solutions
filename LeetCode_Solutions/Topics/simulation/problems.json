@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "simulation",
+    "name": "Simulation"
+  },
+  "updatedAt": "2026-08-03T13:39:01.649Z",
+  "problems": [
+    {
+      "frontendId": "258",
+      "title": "Add Digits",
+      "slug": "add-digits",
+      "problemName": "0258-add-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-digits/",
+      "folderPath": "LeetCode_Solutions/0258-add-digits/",
+      "readmePath": "LeetCode_Solutions/0258-add-digits/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0258-add-digits.java",
+          "path": "LeetCode_Solutions/0258-add-digits/0258-add-digits.java",
+          "sha": "7d16013688d6a7d5dd7da5d3c566ad977dfdabd2",
+          "lastSyncedAt": "2026-08-03T13:39:01.649Z"
+        }
+      ]
+    }
+  ]
+}
