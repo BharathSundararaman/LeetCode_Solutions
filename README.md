@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
+| [0434-number-of-segments-in-a-string](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0434-number-of-segments-in-a-string) |
 ## Backtracking
 |  |
 | ------- |
