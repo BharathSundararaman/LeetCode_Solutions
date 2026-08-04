@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-07-24T10:27:44.687Z",
+  "updatedAt": "2026-08-04T02:37:52.370Z",
   "problems": [
     {
       "frontendId": "94",
@@ -63,6 +63,26 @@
           "path": "LeetCode_Solutions/0145-binary-tree-postorder-traversal/0145-binary-tree-postorder-traversal.java",
           "sha": "737a4d4572ab0212f9d9b875b1676421e529d268",
           "lastSyncedAt": "2026-07-24T10:27:44.687Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "316",
+      "title": "Remove Duplicate Letters",
+      "slug": "remove-duplicate-letters",
+      "problemName": "0316-remove-duplicate-letters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicate-letters/",
+      "folderPath": "LeetCode_Solutions/0316-remove-duplicate-letters/",
+      "readmePath": "LeetCode_Solutions/0316-remove-duplicate-letters/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0316-remove-duplicate-letters.java",
+          "path": "LeetCode_Solutions/0316-remove-duplicate-letters/0316-remove-duplicate-letters.java",
+          "sha": "b6757ceffc295635c969e6ec8ccab5d6b3823a1c",
+          "lastSyncedAt": "2026-08-04T02:37:52.370Z"
         }
       ]
     }
