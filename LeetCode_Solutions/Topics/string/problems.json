@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-04T01:59:20.890Z",
+  "updatedAt": "2026-08-04T02:37:52.370Z",
   "problems": [
     {
       "frontendId": "22",
@@ -103,6 +103,26 @@
           "path": "LeetCode_Solutions/0131-palindrome-partitioning/0131-palindrome-partitioning.java",
           "sha": "c000864bb8480df859816cbc1eb9efa9fc34b678",
           "lastSyncedAt": "2026-07-23T10:20:19.676Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "316",
+      "title": "Remove Duplicate Letters",
+      "slug": "remove-duplicate-letters",
+      "problemName": "0316-remove-duplicate-letters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicate-letters/",
+      "folderPath": "LeetCode_Solutions/0316-remove-duplicate-letters/",
+      "readmePath": "LeetCode_Solutions/0316-remove-duplicate-letters/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0316-remove-duplicate-letters.java",
+          "path": "LeetCode_Solutions/0316-remove-duplicate-letters/0316-remove-duplicate-letters.java",
+          "sha": "b6757ceffc295635c969e6ec8ccab5d6b3823a1c",
+          "lastSyncedAt": "2026-08-04T02:37:52.370Z"
         }
       ]
     },
