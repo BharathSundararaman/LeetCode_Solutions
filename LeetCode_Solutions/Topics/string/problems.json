@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-04T10:03:33.393Z",
+  "updatedAt": "2026-08-04T11:13:55.922Z",
   "problems": [
     {
       "frontendId": "22",
@@ -163,6 +163,26 @@
           "path": "LeetCode_Solutions/0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.java",
           "sha": "983548797b21008d704dd78cc23d3882d58b1473",
           "lastSyncedAt": "2026-08-04T01:59:20.890Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "720",
+      "title": "Longest Word in Dictionary",
+      "slug": "longest-word-in-dictionary",
+      "problemName": "0720-longest-word-in-dictionary",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-word-in-dictionary/",
+      "folderPath": "LeetCode_Solutions/0720-longest-word-in-dictionary/",
+      "readmePath": "LeetCode_Solutions/0720-longest-word-in-dictionary/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0720-longest-word-in-dictionary.java",
+          "path": "LeetCode_Solutions/0720-longest-word-in-dictionary/0720-longest-word-in-dictionary.java",
+          "sha": "c55ec0e5836dacaed230aa5eb5856d68d26295e6",
+          "lastSyncedAt": "2026-08-04T11:13:55.922Z"
         }
       ]
     },
