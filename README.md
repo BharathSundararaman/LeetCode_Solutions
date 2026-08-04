@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0204-count-primes](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0204-count-primes) |
 | [0416-partition-equal-subset-sum](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0720-longest-word-in-dictionary](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0724-find-pivot-index](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0976-largest-perimeter-triangle](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1014-best-sightseeing-pair](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/1014-best-sightseeing-pair) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0434-number-of-segments-in-a-string](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0720-longest-word-in-dictionary](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Backtracking
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0451-sort-characters-by-frequency](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0720-longest-word-in-dictionary](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0720-longest-word-in-dictionary) |
 ## Stack
 |  |
 | ------- |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0720-longest-word-in-dictionary](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0976-largest-perimeter-triangle](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0976-largest-perimeter-triangle) |
 ## Prefix Sum
 |  |
@@ -195,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Trie
+|  |
+| ------- |
+| [0720-longest-word-in-dictionary](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0720-longest-word-in-dictionary) |
 <!---LeetCode Topics End-->
