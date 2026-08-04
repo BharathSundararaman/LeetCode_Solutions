@@ -4,8 +4,28 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-07-31T00:49:35.160Z",
+  "updatedAt": "2026-08-04T02:37:52.370Z",
   "problems": [
+    {
+      "frontendId": "316",
+      "title": "Remove Duplicate Letters",
+      "slug": "remove-duplicate-letters",
+      "problemName": "0316-remove-duplicate-letters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicate-letters/",
+      "folderPath": "LeetCode_Solutions/0316-remove-duplicate-letters/",
+      "readmePath": "LeetCode_Solutions/0316-remove-duplicate-letters/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0316-remove-duplicate-letters.java",
+          "path": "LeetCode_Solutions/0316-remove-duplicate-letters/0316-remove-duplicate-letters.java",
+          "sha": "b6757ceffc295635c969e6ec8ccab5d6b3823a1c",
+          "lastSyncedAt": "2026-08-04T02:37:52.370Z"
+        }
+      ]
+    },
     {
       "frontendId": "435",
       "title": "Non-overlapping Intervals",
