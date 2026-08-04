@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 64 | 38 | 25 | 1 |
+| 65 | 39 | 25 | 1 |
 
 ## Activity
 
@@ -28,7 +28,7 @@ Contains topicwise list of solved problems.
 | 2026-08-01 | 2 |
 | 2026-08-02 | 6 |
 | 2026-08-03 | 2 |
-| 2026-08-04 | 2 |
+| 2026-08-04 | 3 |
 
 ## Top Tags
 
@@ -36,11 +36,11 @@ Contains topicwise list of solved problems.
 | --- | ---: | ---: |
 | Array | 27 | 42% |
 | Dynamic Programming | 15 | 23% |
-| Database | 12 | 19% |
-| Math | 12 | 19% |
+| Database | 12 | 18% |
+| Math | 12 | 18% |
+| String | 10 | 15% |
 | Binary Tree | 9 | 14% |
 | Depth-First Search | 9 | 14% |
-| String | 9 | 14% |
 | Tree | 9 | 14% |
 | Backtracking | 7 | 11% |
 | Breadth-First Search | 5 | 8% |
@@ -57,7 +57,7 @@ Contains topicwise list of solved problems.
 | [Breadth-First Search](Topics/breadth-first-search/) | 5 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
-| [Counting](Topics/counting/) | 2 |
+| [Counting](Topics/counting/) | 3 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Database](Topics/database/) | 12 |
 | [Depth-First Search](Topics/depth-first-search/) | 9 |
@@ -81,7 +81,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 4 |
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 4 |
-| [String](Topics/string/) | 9 |
+| [String](Topics/string/) | 10 |
 | [Tree](Topics/tree/) | 9 |
 | [Two Pointers](Topics/two-pointers/) | 2 |
 <!---LeetHub Summary End-->
