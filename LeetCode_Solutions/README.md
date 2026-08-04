@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 65 | 39 | 25 | 1 |
+| 67 | 40 | 26 | 1 |
 
 ## Activity
 
@@ -28,32 +28,32 @@ Contains topicwise list of solved problems.
 | 2026-08-01 | 2 |
 | 2026-08-02 | 6 |
 | 2026-08-03 | 2 |
-| 2026-08-04 | 3 |
+| 2026-08-04 | 5 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 27 | 42% |
-| Dynamic Programming | 15 | 23% |
+| Array | 28 | 42% |
+| Dynamic Programming | 15 | 22% |
+| Math | 13 | 19% |
 | Database | 12 | 18% |
-| Math | 12 | 18% |
-| String | 10 | 15% |
-| Binary Tree | 9 | 14% |
-| Depth-First Search | 9 | 14% |
-| Tree | 9 | 14% |
-| Backtracking | 7 | 11% |
-| Breadth-First Search | 5 | 8% |
+| String | 12 | 18% |
+| Binary Tree | 9 | 13% |
+| Depth-First Search | 9 | 13% |
+| Tree | 9 | 13% |
+| Backtracking | 7 | 10% |
+| Breadth-First Search | 5 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 27 |
+| [Array](Topics/array/) | 28 |
 | [Backtracking](Topics/backtracking/) | 7 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Tree](Topics/binary-tree/) | 9 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 1 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 5 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
@@ -66,22 +66,23 @@ Contains topicwise list of solved problems.
 | [Game Theory](Topics/game-theory/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 4 |
-| [Hash Table](Topics/hash-table/) | 3 |
+| [Hash Table](Topics/hash-table/) | 4 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 0 |
-| [Math](Topics/math/) | 12 |
+| [Math](Topics/math/) | 13 |
 | [Matrix](Topics/matrix/) | 4 |
 | [Memoization](Topics/memoization/) | 2 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Number Theory](Topics/number-theory/) | 3 |
 | [Prefix Sum](Topics/prefix-sum/) | 5 |
 | [Recursion](Topics/recursion/) | 1 |
-| [Simulation](Topics/simulation/) | 1 |
+| [Simulation](Topics/simulation/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 4 |
-| [Sorting](Topics/sorting/) | 3 |
+| [Sorting](Topics/sorting/) | 4 |
 | [Stack](Topics/stack/) | 4 |
-| [String](Topics/string/) | 10 |
+| [String](Topics/string/) | 12 |
 | [Tree](Topics/tree/) | 9 |
+| [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 2 |
 <!---LeetHub Summary End-->
