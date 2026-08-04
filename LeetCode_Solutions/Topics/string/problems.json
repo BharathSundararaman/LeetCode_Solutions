@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-04T02:37:52.370Z",
+  "updatedAt": "2026-08-04T10:03:33.393Z",
   "problems": [
     {
       "frontendId": "22",
@@ -183,6 +183,26 @@
           "path": "LeetCode_Solutions/1662-check-if-two-string-arrays-are-equivalent/1662-check-if-two-string-arrays-are-equivalent.java",
           "sha": "362519554e9bcf28d2e0f46ee3bac1e1a6b50fa1",
           "lastSyncedAt": "2026-07-19T06:28:14.840Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1704",
+      "title": "Determine if String Halves Are Alike",
+      "slug": "determine-if-string-halves-are-alike",
+      "problemName": "1704-determine-if-string-halves-are-alike",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/determine-if-string-halves-are-alike/",
+      "folderPath": "LeetCode_Solutions/1704-determine-if-string-halves-are-alike/",
+      "readmePath": "LeetCode_Solutions/1704-determine-if-string-halves-are-alike/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1704-determine-if-string-halves-are-alike.java",
+          "path": "LeetCode_Solutions/1704-determine-if-string-halves-are-alike/1704-determine-if-string-halves-are-alike.java",
+          "sha": "18e42ceba147bc91850bbd23fa0d5faf5ad57873",
+          "lastSyncedAt": "2026-08-04T10:03:33.393Z"
         }
       ]
     }
