@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "trie",
+    "name": "Trie"
+  },
+  "updatedAt": "2026-08-04T11:13:55.922Z",
+  "problems": [
+    {
+      "frontendId": "720",
+      "title": "Longest Word in Dictionary",
+      "slug": "longest-word-in-dictionary",
+      "problemName": "0720-longest-word-in-dictionary",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-word-in-dictionary/",
+      "folderPath": "LeetCode_Solutions/0720-longest-word-in-dictionary/",
+      "readmePath": "LeetCode_Solutions/0720-longest-word-in-dictionary/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0720-longest-word-in-dictionary.java",
+          "path": "LeetCode_Solutions/0720-longest-word-in-dictionary/0720-longest-word-in-dictionary.java",
+          "sha": "c55ec0e5836dacaed230aa5eb5856d68d26295e6",
+          "lastSyncedAt": "2026-08-04T11:13:55.922Z"
+        }
+      ]
+    }
+  ]
+}
