@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0434-number-of-segments-in-a-string](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0434-number-of-segments-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Backtracking
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
+| [0451-sort-characters-by-frequency](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Stack
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0976-largest-perimeter-triangle](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0976-largest-perimeter-triangle) |
 ## Prefix Sum
 |  |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1854-maximum-population-year](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/1854-maximum-population-year) |
 ## Enumeration
 |  |
@@ -181,4 +185,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0258-add-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
