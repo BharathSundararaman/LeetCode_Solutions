@@ -4,8 +4,28 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-08-03T13:39:01.649Z",
+  "updatedAt": "2026-08-04T11:37:08.451Z",
   "problems": [
+    {
+      "frontendId": "67",
+      "title": "Add Binary",
+      "slug": "add-binary",
+      "problemName": "0067-add-binary",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-binary/",
+      "folderPath": "LeetCode_Solutions/0067-add-binary/",
+      "readmePath": "LeetCode_Solutions/0067-add-binary/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0067-add-binary.java",
+          "path": "LeetCode_Solutions/0067-add-binary/0067-add-binary.java",
+          "sha": "241d8cb01c0cbf02cd7f8ef83d74a9fd38e74954",
+          "lastSyncedAt": "2026-08-04T11:37:08.451Z"
+        }
+      ]
+    },
     {
       "frontendId": "258",
       "title": "Add Digits",
