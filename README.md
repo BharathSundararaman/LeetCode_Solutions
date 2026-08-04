@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0434-number-of-segments-in-a-string](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0434-number-of-segments-in-a-string) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0078-subsets) |
 ## Depth-First Search
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0507-perfect-number) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0258-add-digits) |
 ## Heap (Priority Queue)
 |  |
