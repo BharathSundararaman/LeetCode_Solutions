@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-07-27T14:35:48.659Z",
+  "updatedAt": "2026-08-04T13:34:56.249Z",
   "problems": [
     {
       "frontendId": "175",
@@ -203,6 +203,26 @@
           "path": "LeetCode_Solutions/1661-average-time-of-process-per-machine/1661-average-time-of-process-per-machine.sql",
           "sha": "e817ad6d6800f900c5c64935051dcea9d06c28df",
           "lastSyncedAt": "2026-07-21T13:56:12.771Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1729",
+      "title": "Find Followers Count",
+      "slug": "find-followers-count",
+      "problemName": "1729-find-followers-count",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-followers-count/",
+      "folderPath": "LeetCode_Solutions/1729-find-followers-count/",
+      "readmePath": "LeetCode_Solutions/1729-find-followers-count/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1729-find-followers-count.sql",
+          "path": "LeetCode_Solutions/1729-find-followers-count/1729-find-followers-count.sql",
+          "sha": "3ee02a2a7fb83f83b5ecffd919b7360356aaf574",
+          "lastSyncedAt": "2026-08-04T13:34:56.249Z"
         }
       ]
     },
