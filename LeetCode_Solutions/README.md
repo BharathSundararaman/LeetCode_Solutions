@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 67 | 40 | 26 | 1 |
+| 68 | 41 | 26 | 1 |
 
 ## Activity
 
@@ -28,16 +28,16 @@ Contains topicwise list of solved problems.
 | 2026-08-01 | 2 |
 | 2026-08-02 | 6 |
 | 2026-08-03 | 2 |
-| 2026-08-04 | 5 |
+| 2026-08-04 | 6 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 28 | 42% |
+| Array | 28 | 41% |
 | Dynamic Programming | 15 | 22% |
+| Database | 13 | 19% |
 | Math | 13 | 19% |
-| Database | 12 | 18% |
 | String | 12 | 18% |
 | Binary Tree | 9 | 13% |
 | Depth-First Search | 9 | 13% |
@@ -59,7 +59,7 @@ Contains topicwise list of solved problems.
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Counting](Topics/counting/) | 3 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Database](Topics/database/) | 12 |
+| [Database](Topics/database/) | 13 |
 | [Depth-First Search](Topics/depth-first-search/) | 9 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 15 |
