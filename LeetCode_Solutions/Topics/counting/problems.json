@@ -4,8 +4,28 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-08-01T10:46:40.748Z",
+  "updatedAt": "2026-08-04T01:59:20.890Z",
   "problems": [
+    {
+      "frontendId": "451",
+      "title": "Sort Characters By Frequency",
+      "slug": "sort-characters-by-frequency",
+      "problemName": "0451-sort-characters-by-frequency",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-characters-by-frequency/",
+      "folderPath": "LeetCode_Solutions/0451-sort-characters-by-frequency/",
+      "readmePath": "LeetCode_Solutions/0451-sort-characters-by-frequency/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0451-sort-characters-by-frequency.java",
+          "path": "LeetCode_Solutions/0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.java",
+          "sha": "983548797b21008d704dd78cc23d3882d58b1473",
+          "lastSyncedAt": "2026-08-04T01:59:20.890Z"
+        }
+      ]
+    },
     {
       "frontendId": "1854",
       "title": "Maximum Population Year",
