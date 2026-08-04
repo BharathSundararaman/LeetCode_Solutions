@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-03T14:18:49.357Z",
+  "updatedAt": "2026-08-04T01:59:20.890Z",
   "problems": [
     {
       "frontendId": "22",
@@ -123,6 +123,26 @@
           "path": "LeetCode_Solutions/0434-number-of-segments-in-a-string/0434-number-of-segments-in-a-string.java",
           "sha": "08846a81ce557ba405f6f2d8371fa905e096c066",
           "lastSyncedAt": "2026-08-03T14:18:49.357Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "451",
+      "title": "Sort Characters By Frequency",
+      "slug": "sort-characters-by-frequency",
+      "problemName": "0451-sort-characters-by-frequency",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-characters-by-frequency/",
+      "folderPath": "LeetCode_Solutions/0451-sort-characters-by-frequency/",
+      "readmePath": "LeetCode_Solutions/0451-sort-characters-by-frequency/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0451-sort-characters-by-frequency.java",
+          "path": "LeetCode_Solutions/0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.java",
+          "sha": "983548797b21008d704dd78cc23d3882d58b1473",
+          "lastSyncedAt": "2026-08-04T01:59:20.890Z"
         }
       ]
     },
