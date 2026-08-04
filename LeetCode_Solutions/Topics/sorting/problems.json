@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-07-31T00:49:35.160Z",
+  "updatedAt": "2026-08-04T01:59:20.890Z",
   "problems": [
     {
       "frontendId": "435",
@@ -23,6 +23,26 @@
           "path": "LeetCode_Solutions/0435-non-overlapping-intervals/0435-non-overlapping-intervals.java",
           "sha": "56c3ca1e6026995829bb87f74cd798cce8f7b05d",
           "lastSyncedAt": "2026-07-28T10:44:26.583Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "451",
+      "title": "Sort Characters By Frequency",
+      "slug": "sort-characters-by-frequency",
+      "problemName": "0451-sort-characters-by-frequency",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-characters-by-frequency/",
+      "folderPath": "LeetCode_Solutions/0451-sort-characters-by-frequency/",
+      "readmePath": "LeetCode_Solutions/0451-sort-characters-by-frequency/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0451-sort-characters-by-frequency.java",
+          "path": "LeetCode_Solutions/0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.java",
+          "sha": "983548797b21008d704dd78cc23d3882d58b1473",
+          "lastSyncedAt": "2026-08-04T01:59:20.890Z"
         }
       ]
     },
