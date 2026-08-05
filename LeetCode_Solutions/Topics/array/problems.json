@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-04T11:13:55.922Z",
+  "updatedAt": "2026-08-05T10:21:36.646Z",
   "problems": [
     {
       "frontendId": "31",
@@ -123,6 +123,26 @@
           "path": "LeetCode_Solutions/0064-minimum-path-sum/0064-minimum-path-sum.java",
           "sha": "eaa850c7ddeb8692e5362b1fde3c02caad395e0b",
           "lastSyncedAt": "2026-07-19T06:27:55.025Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "66",
+      "title": "Plus One",
+      "slug": "plus-one",
+      "problemName": "0066-plus-one",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/plus-one/",
+      "folderPath": "LeetCode_Solutions/0066-plus-one/",
+      "readmePath": "LeetCode_Solutions/0066-plus-one/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0066-plus-one.java",
+          "path": "LeetCode_Solutions/0066-plus-one/0066-plus-one.java",
+          "sha": "5481abf214286c9cba84688c28ca0103fc1323b1",
+          "lastSyncedAt": "2026-08-05T10:21:36.646Z"
         }
       ]
     },
