@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0258-add-digits) |
