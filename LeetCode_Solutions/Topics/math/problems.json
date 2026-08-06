@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-05T10:21:36.646Z",
+  "updatedAt": "2026-08-06T04:36:43.580Z",
   "problems": [
     {
       "frontendId": "62",
@@ -163,6 +163,26 @@
           "path": "LeetCode_Solutions/0509-fibonacci-number/0509-fibonacci-number.java",
           "sha": "f973cd25308ad83e7e44cc61bb7a3a795e46ff64",
           "lastSyncedAt": "2026-07-19T06:29:16.571Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "523",
+      "title": "Continuous Subarray Sum",
+      "slug": "continuous-subarray-sum",
+      "problemName": "0523-continuous-subarray-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/continuous-subarray-sum/",
+      "folderPath": "LeetCode_Solutions/0523-continuous-subarray-sum/",
+      "readmePath": "LeetCode_Solutions/0523-continuous-subarray-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0523-continuous-subarray-sum.java",
+          "path": "LeetCode_Solutions/0523-continuous-subarray-sum/0523-continuous-subarray-sum.java",
+          "sha": "5675d51e0d182f6c245998586752d69040fa1c0a",
+          "lastSyncedAt": "2026-08-06T04:36:43.580Z"
         }
       ]
     },
