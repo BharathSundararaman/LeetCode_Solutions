@@ -4,8 +4,28 @@
     "slug": "divide-and-conquer",
     "name": "Divide and Conquer"
   },
-  "updatedAt": "2026-07-29T01:57:20.463Z",
+  "updatedAt": "2026-08-06T05:12:35.237Z",
   "problems": [
+    {
+      "frontendId": "4",
+      "title": "Median of Two Sorted Arrays",
+      "slug": "median-of-two-sorted-arrays",
+      "problemName": "0004-median-of-two-sorted-arrays",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+      "folderPath": "LeetCode_Solutions/0004-median-of-two-sorted-arrays/",
+      "readmePath": "LeetCode_Solutions/0004-median-of-two-sorted-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0004-median-of-two-sorted-arrays.java",
+          "path": "LeetCode_Solutions/0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.java",
+          "sha": "2c646d4803b86a7b600549959c777e3e48cd62bc",
+          "lastSyncedAt": "2026-08-06T05:12:35.237Z"
+        }
+      ]
+    },
     {
       "frontendId": "53",
       "title": "Maximum Subarray",
