@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-05T10:21:36.646Z",
+  "updatedAt": "2026-08-06T04:36:43.580Z",
   "problems": [
     {
       "frontendId": "31",
@@ -303,6 +303,26 @@
           "path": "LeetCode_Solutions/0435-non-overlapping-intervals/0435-non-overlapping-intervals.java",
           "sha": "56c3ca1e6026995829bb87f74cd798cce8f7b05d",
           "lastSyncedAt": "2026-07-28T10:44:26.583Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "523",
+      "title": "Continuous Subarray Sum",
+      "slug": "continuous-subarray-sum",
+      "problemName": "0523-continuous-subarray-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/continuous-subarray-sum/",
+      "folderPath": "LeetCode_Solutions/0523-continuous-subarray-sum/",
+      "readmePath": "LeetCode_Solutions/0523-continuous-subarray-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0523-continuous-subarray-sum.java",
+          "path": "LeetCode_Solutions/0523-continuous-subarray-sum/0523-continuous-subarray-sum.java",
+          "sha": "5675d51e0d182f6c245998586752d69040fa1c0a",
+          "lastSyncedAt": "2026-08-06T04:36:43.580Z"
         }
       ]
     },
