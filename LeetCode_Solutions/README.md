@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 69 | 42 | 26 | 1 |
+| 70 | 42 | 27 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 6 days | 15 days | 21 |
+| 7 days | 15 days | 22 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-07-22 | 4 |
 | 2026-07-23 | 2 |
 | 2026-07-24 | 5 |
 | 2026-07-25 | 5 |
@@ -29,27 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-08-03 | 2 |
 | 2026-08-04 | 6 |
 | 2026-08-05 | 1 |
+| 2026-08-06 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 29 | 42% |
-| Dynamic Programming | 15 | 22% |
-| Math | 14 | 20% |
+| Array | 30 | 43% |
+| Dynamic Programming | 15 | 21% |
+| Math | 15 | 21% |
 | Database | 13 | 19% |
 | String | 12 | 17% |
 | Binary Tree | 9 | 13% |
 | Depth-First Search | 9 | 13% |
 | Tree | 9 | 13% |
 | Backtracking | 7 | 10% |
-| Breadth-First Search | 5 | 7% |
+| Prefix Sum | 6 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 29 |
+| [Array](Topics/array/) | 30 |
 | [Backtracking](Topics/backtracking/) | 7 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Tree](Topics/binary-tree/) | 9 |
@@ -66,16 +66,17 @@ Contains topicwise list of solved problems.
 | [Game Theory](Topics/game-theory/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 4 |
-| [Hash Table](Topics/hash-table/) | 4 |
+| [Hash Table](Topics/hash-table/) | 5 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 0 |
-| [Math](Topics/math/) | 14 |
+| [Math](Topics/math/) | 15 |
 | [Matrix](Topics/matrix/) | 4 |
 | [Memoization](Topics/memoization/) | 2 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Number Theory](Topics/number-theory/) | 3 |
-| [Prefix Sum](Topics/prefix-sum/) | 5 |
+| [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
+| [Prefix Sum](Topics/prefix-sum/) | 6 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Simulation](Topics/simulation/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 4 |
