@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 70 | 42 | 27 | 1 |
+| 71 | 42 | 27 | 2 |
 
 ## Activity
 
@@ -28,30 +28,30 @@ Contains topicwise list of solved problems.
 | 2026-08-03 | 2 |
 | 2026-08-04 | 6 |
 | 2026-08-05 | 1 |
-| 2026-08-06 | 1 |
+| 2026-08-06 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 30 | 43% |
+| Array | 31 | 44% |
 | Dynamic Programming | 15 | 21% |
 | Math | 15 | 21% |
-| Database | 13 | 19% |
+| Database | 13 | 18% |
 | String | 12 | 17% |
 | Binary Tree | 9 | 13% |
 | Depth-First Search | 9 | 13% |
 | Tree | 9 | 13% |
 | Backtracking | 7 | 10% |
-| Prefix Sum | 6 | 9% |
+| Prefix Sum | 6 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 30 |
+| [Array](Topics/array/) | 31 |
 | [Backtracking](Topics/backtracking/) | 7 |
-| [Binary Search](Topics/binary-search/) | 3 |
+| [Binary Search](Topics/binary-search/) | 4 |
 | [Binary Tree](Topics/binary-tree/) | 9 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 5 |
@@ -61,7 +61,7 @@ Contains topicwise list of solved problems.
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Database](Topics/database/) | 13 |
 | [Depth-First Search](Topics/depth-first-search/) | 9 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 15 |
 | [Game Theory](Topics/game-theory/) | 1 |
 | [Graph](Topics/graph/) | 0 |
