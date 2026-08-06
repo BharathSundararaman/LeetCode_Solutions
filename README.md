@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0204-count-primes](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0204-count-primes) |
 | [0416-partition-equal-subset-sum](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0523-continuous-subarray-sum](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0720-longest-word-in-dictionary](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0724-find-pivot-index](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0976-largest-perimeter-triangle](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0976-largest-perimeter-triangle) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0451-sort-characters-by-frequency](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0523-continuous-subarray-sum](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0720-longest-word-in-dictionary](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0720-longest-word-in-dictionary) |
 ## Stack
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0507-perfect-number) |
+| [0523-continuous-subarray-sum](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1854-maximum-population-year](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/1854-maximum-population-year) |
@@ -212,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0720-longest-word-in-dictionary](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0720-longest-word-in-dictionary) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
