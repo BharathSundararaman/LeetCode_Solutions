@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-04T11:37:08.451Z",
+  "updatedAt": "2026-08-07T13:34:35.768Z",
   "problems": [
     {
       "frontendId": "22",
@@ -243,6 +243,26 @@
           "path": "LeetCode_Solutions/1704-determine-if-string-halves-are-alike/1704-determine-if-string-halves-are-alike.java",
           "sha": "18e42ceba147bc91850bbd23fa0d5faf5ad57873",
           "lastSyncedAt": "2026-08-04T10:03:33.393Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3794",
+      "title": "Reverse String Prefix",
+      "slug": "reverse-string-prefix",
+      "problemName": "3794-reverse-string-prefix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-string-prefix/",
+      "folderPath": "LeetCode_Solutions/3794-reverse-string-prefix/",
+      "readmePath": "LeetCode_Solutions/3794-reverse-string-prefix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3794-reverse-string-prefix.java",
+          "path": "LeetCode_Solutions/3794-reverse-string-prefix/3794-reverse-string-prefix.java",
+          "sha": "4c1ff3d446ff120d75e8ed46b4bce7b2b52025f9",
+          "lastSyncedAt": "2026-08-07T13:34:35.768Z"
         }
       ]
     }
