@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-07-28T09:54:50.234Z",
+  "updatedAt": "2026-08-07T13:34:35.768Z",
   "problems": [
     {
       "frontendId": "31",
@@ -43,6 +43,26 @@
           "path": "LeetCode_Solutions/1089-duplicate-zeros/1089-duplicate-zeros.java",
           "sha": "dba40c12b7ea4c4f38946a71ba7918722022d236",
           "lastSyncedAt": "2026-07-19T06:28:29.977Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3794",
+      "title": "Reverse String Prefix",
+      "slug": "reverse-string-prefix",
+      "problemName": "3794-reverse-string-prefix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-string-prefix/",
+      "folderPath": "LeetCode_Solutions/3794-reverse-string-prefix/",
+      "readmePath": "LeetCode_Solutions/3794-reverse-string-prefix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3794-reverse-string-prefix.java",
+          "path": "LeetCode_Solutions/3794-reverse-string-prefix/3794-reverse-string-prefix.java",
+          "sha": "4c1ff3d446ff120d75e8ed46b4bce7b2b52025f9",
+          "lastSyncedAt": "2026-08-07T13:34:35.768Z"
         }
       ]
     }
