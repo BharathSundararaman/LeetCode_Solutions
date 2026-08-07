@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0720-longest-word-in-dictionary](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
+| [3794-reverse-string-prefix](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/3794-reverse-string-prefix) |
 ## Backtracking
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0031-next-permutation) |
+| [3794-reverse-string-prefix](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/3794-reverse-string-prefix) |
 ## Divide and Conquer
 |  |
 | ------- |
