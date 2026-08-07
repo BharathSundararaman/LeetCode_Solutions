@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 71 | 42 | 27 | 2 |
+| 72 | 43 | 27 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 7 days | 15 days | 22 |
+| 8 days | 15 days | 23 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-07-23 | 2 |
 | 2026-07-24 | 5 |
 | 2026-07-25 | 5 |
 | 2026-07-26 | 1 |
@@ -29,16 +28,17 @@ Contains topicwise list of solved problems.
 | 2026-08-04 | 6 |
 | 2026-08-05 | 1 |
 | 2026-08-06 | 2 |
+| 2026-08-07 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 31 | 44% |
+| Array | 31 | 43% |
 | Dynamic Programming | 15 | 21% |
 | Math | 15 | 21% |
 | Database | 13 | 18% |
-| String | 12 | 17% |
+| String | 13 | 18% |
 | Binary Tree | 9 | 13% |
 | Depth-First Search | 9 | 13% |
 | Tree | 9 | 13% |
@@ -82,8 +82,8 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 4 |
 | [Sorting](Topics/sorting/) | 4 |
 | [Stack](Topics/stack/) | 4 |
-| [String](Topics/string/) | 12 |
+| [String](Topics/string/) | 13 |
 | [Tree](Topics/tree/) | 9 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 2 |
+| [Two Pointers](Topics/two-pointers/) | 3 |
 <!---LeetHub Summary End-->
