@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 72 | 43 | 27 | 2 |
+| 73 | 43 | 28 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 8 days | 15 days | 23 |
+| 1 days | 15 days | 24 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-07-24 | 5 |
 | 2026-07-25 | 5 |
 | 2026-07-26 | 1 |
 | 2026-07-27 | 2 |
@@ -29,19 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-08-05 | 1 |
 | 2026-08-06 | 2 |
 | 2026-08-07 | 1 |
+| 2026-08-17 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 31 | 43% |
-| Dynamic Programming | 15 | 21% |
+| Array | 32 | 44% |
+| Dynamic Programming | 16 | 22% |
 | Math | 15 | 21% |
 | Database | 13 | 18% |
 | String | 13 | 18% |
-| Binary Tree | 9 | 13% |
-| Depth-First Search | 9 | 13% |
-| Tree | 9 | 13% |
+| Binary Tree | 9 | 12% |
+| Depth-First Search | 9 | 12% |
+| Tree | 9 | 12% |
 | Backtracking | 7 | 10% |
 | Prefix Sum | 6 | 8% |
 
@@ -49,9 +49,9 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 31 |
+| [Array](Topics/array/) | 32 |
 | [Backtracking](Topics/backtracking/) | 7 |
-| [Binary Search](Topics/binary-search/) | 4 |
+| [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Tree](Topics/binary-tree/) | 9 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 5 |
@@ -62,7 +62,7 @@ Contains topicwise list of solved problems.
 | [Database](Topics/database/) | 13 |
 | [Depth-First Search](Topics/depth-first-search/) | 9 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 15 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 16 |
 | [Game Theory](Topics/game-theory/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 4 |
@@ -70,6 +70,7 @@ Contains topicwise list of solved problems.
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 0 |
+| [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 1 |
 | [Math](Topics/math/) | 15 |
 | [Matrix](Topics/matrix/) | 4 |
 | [Memoization](Topics/memoization/) | 2 |
