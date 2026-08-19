@@ -4,7 +4,7 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-07-25T05:20:29.316Z",
+  "updatedAt": "2026-08-19T14:32:34.470Z",
   "problems": [
     {
       "frontendId": "100",
@@ -103,6 +103,26 @@
           "path": "LeetCode_Solutions/0226-invert-binary-tree/0226-invert-binary-tree.java",
           "sha": "6c2c9ceee0ec5687d3a5af757d6bfc172a225d09",
           "lastSyncedAt": "2026-07-25T05:10:57.498Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "322",
+      "title": "Coin Change",
+      "slug": "coin-change",
+      "problemName": "0322-coin-change",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/coin-change/",
+      "folderPath": "LeetCode_Solutions/0322-coin-change/",
+      "readmePath": "LeetCode_Solutions/0322-coin-change/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0322-coin-change.java",
+          "path": "LeetCode_Solutions/0322-coin-change/0322-coin-change.java",
+          "sha": "15abf45bf3aeface989c1654bdf4fe1312822d01",
+          "lastSyncedAt": "2026-08-19T14:32:34.470Z"
         }
       ]
     }
