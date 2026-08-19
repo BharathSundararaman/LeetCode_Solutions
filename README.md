@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0204-count-primes](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0204-count-primes) |
 | [0300-longest-increasing-subsequence](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0523-continuous-subarray-sum](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0720-longest-word-in-dictionary](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0720-longest-word-in-dictionary) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [1014-best-sightseeing-pair](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/1014-best-sightseeing-pair) |
 | [1137-n-th-tribonacci-number](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0322-coin-change) |
 ## Two Pointers
 |  |
 | ------- |
@@ -238,4 +241,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/1137-n-th-tribonacci-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
