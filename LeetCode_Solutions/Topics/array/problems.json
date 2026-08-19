@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-17T14:12:35.195Z",
+  "updatedAt": "2026-08-19T14:32:34.470Z",
   "problems": [
     {
       "frontendId": "4",
@@ -303,6 +303,26 @@
           "path": "LeetCode_Solutions/0300-longest-increasing-subsequence/0300-longest-increasing-subsequence.java",
           "sha": "e289efd7009d93aba2331125bd57566f423a52d1",
           "lastSyncedAt": "2026-08-17T14:12:35.195Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "322",
+      "title": "Coin Change",
+      "slug": "coin-change",
+      "problemName": "0322-coin-change",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/coin-change/",
+      "folderPath": "LeetCode_Solutions/0322-coin-change/",
+      "readmePath": "LeetCode_Solutions/0322-coin-change/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0322-coin-change.java",
+          "path": "LeetCode_Solutions/0322-coin-change/0322-coin-change.java",
+          "sha": "15abf45bf3aeface989c1654bdf4fe1312822d01",
+          "lastSyncedAt": "2026-08-19T14:32:34.470Z"
         }
       ]
     },
