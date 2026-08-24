@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0204-count-primes) |
 | [0300-longest-increasing-subsequence](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0322-coin-change) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0136-single-number) |
 ## Depth-First Search
 |  |
 | ------- |
