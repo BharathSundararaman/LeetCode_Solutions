@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-19T14:32:34.470Z",
+  "updatedAt": "2026-08-24T15:16:55.582Z",
   "problems": [
     {
       "frontendId": "4",
@@ -223,6 +223,26 @@
           "path": "LeetCode_Solutions/0118-pascals-triangle/0118-pascals-triangle.java",
           "sha": "4c7ecb2e4eb9c7277888442c469ef12253a8f977",
           "lastSyncedAt": "2026-08-02T10:23:51.848Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "136",
+      "title": "Single Number",
+      "slug": "single-number",
+      "problemName": "0136-single-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/single-number/",
+      "folderPath": "LeetCode_Solutions/0136-single-number/",
+      "readmePath": "LeetCode_Solutions/0136-single-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0136-single-number.java",
+          "path": "LeetCode_Solutions/0136-single-number/0136-single-number.java",
+          "sha": "fde936d96df2fa9d7329f76fb82a46115624ed2a",
+          "lastSyncedAt": "2026-08-24T15:16:55.582Z"
         }
       ]
     },
