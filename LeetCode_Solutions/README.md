@@ -5,18 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 73 | 43 | 28 | 2 |
+| 75 | 44 | 29 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 15 days | 24 |
+| 1 days | 15 days | 26 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-07-25 | 5 |
-| 2026-07-26 | 1 |
 | 2026-07-27 | 2 |
 | 2026-07-28 | 3 |
 | 2026-07-29 | 1 |
@@ -29,46 +27,50 @@ Contains topicwise list of solved problems.
 | 2026-08-06 | 2 |
 | 2026-08-07 | 1 |
 | 2026-08-17 | 1 |
+| 2026-08-19 | 1 |
+| 2026-08-24 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 32 | 44% |
-| Dynamic Programming | 16 | 22% |
-| Math | 15 | 21% |
-| Database | 13 | 18% |
-| String | 13 | 18% |
+| Array | 34 | 45% |
+| Dynamic Programming | 17 | 23% |
+| Math | 15 | 20% |
+| Database | 13 | 17% |
+| String | 13 | 17% |
 | Binary Tree | 9 | 12% |
 | Depth-First Search | 9 | 12% |
 | Tree | 9 | 12% |
-| Backtracking | 7 | 10% |
-| Prefix Sum | 6 | 8% |
+| Backtracking | 7 | 9% |
+| Breadth-First Search | 6 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 32 |
+| [Array](Topics/array/) | 34 |
 | [Backtracking](Topics/backtracking/) | 7 |
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Tree](Topics/binary-tree/) | 9 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 2 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 5 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 3 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 6 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
+| [Complete Knapsack](Topics/complete-knapsack/) | 1 |
 | [Counting](Topics/counting/) | 3 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Database](Topics/database/) | 13 |
 | [Depth-First Search](Topics/depth-first-search/) | 9 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 16 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 17 |
 | [Game Theory](Topics/game-theory/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 4 |
 | [Hash Table](Topics/hash-table/) | 5 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
+| [Knapsack Problem](Topics/knapsack-problem/) | 1 |
 | [Linked List](Topics/linked-list/) | 0 |
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 1 |
 | [Math](Topics/math/) | 15 |
