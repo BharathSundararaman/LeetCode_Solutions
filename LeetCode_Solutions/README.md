@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 75 | 44 | 29 | 2 |
+| 76 | 45 | 29 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 15 days | 26 |
+| 2 days | 15 days | 27 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-07-27 | 2 |
 | 2026-07-28 | 3 |
 | 2026-07-29 | 1 |
 | 2026-07-31 | 1 |
@@ -29,13 +28,14 @@ Contains topicwise list of solved problems.
 | 2026-08-17 | 1 |
 | 2026-08-19 | 1 |
 | 2026-08-24 | 1 |
+| 2026-08-25 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 34 | 45% |
-| Dynamic Programming | 17 | 23% |
+| Array | 35 | 46% |
+| Dynamic Programming | 17 | 22% |
 | Math | 15 | 20% |
 | Database | 13 | 17% |
 | String | 13 | 17% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 34 |
+| [Array](Topics/array/) | 35 |
 | [Backtracking](Topics/backtracking/) | 7 |
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Tree](Topics/binary-tree/) | 9 |
@@ -67,7 +67,7 @@ Contains topicwise list of solved problems.
 | [Game Theory](Topics/game-theory/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 4 |
-| [Hash Table](Topics/hash-table/) | 5 |
+| [Hash Table](Topics/hash-table/) | 6 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 1 |
