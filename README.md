@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0720-longest-word-in-dictionary](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0720-longest-word-in-dictionary) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -255,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0322-coin-change) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
