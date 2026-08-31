@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-25T15:04:15.026Z",
+  "updatedAt": "2026-08-31T16:11:52.236Z",
   "problems": [
     {
       "frontendId": "4",
@@ -322,7 +322,7 @@
           "filename": "0215-kth-largest-element-in-an-array.java",
           "path": "LeetCode_Solutions/0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.java",
           "sha": "b086663ca915b26d8ebb567c98bd88d0f61f00d6",
-          "lastSyncedAt": "2026-08-25T15:04:15.026Z"
+          "lastSyncedAt": "2026-08-31T16:11:52.236Z"
         }
       ]
     },
