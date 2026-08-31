@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-31T16:11:52.236Z",
+  "updatedAt": "2026-08-31T16:31:51.629Z",
   "problems": [
     {
       "frontendId": "4",
@@ -603,6 +603,26 @@
           "path": "LeetCode_Solutions/1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.java",
           "sha": "9138b7b95578cc2bdeb01c73ff52f303d7747a1b",
           "lastSyncedAt": "2026-07-19T06:29:52.773Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1046",
+      "title": "Last Stone Weight",
+      "slug": "last-stone-weight",
+      "problemName": "1046-last-stone-weight",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/last-stone-weight/",
+      "folderPath": "LeetCode_Solutions/1046-last-stone-weight/",
+      "readmePath": "LeetCode_Solutions/1046-last-stone-weight/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1046-last-stone-weight.java",
+          "path": "LeetCode_Solutions/1046-last-stone-weight/1046-last-stone-weight.java",
+          "sha": "ed123d4bbf2b65abab9bf4d4247e8876ccaec000",
+          "lastSyncedAt": "2026-08-31T16:31:51.629Z"
         }
       ]
     },
