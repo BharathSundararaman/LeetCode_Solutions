@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 76 | 45 | 29 | 2 |
+| 77 | 45 | 30 | 2 |
 
 ## Activity
 
@@ -28,15 +28,15 @@ Contains topicwise list of solved problems.
 | 2026-08-17 | 1 |
 | 2026-08-19 | 1 |
 | 2026-08-24 | 1 |
-| 2026-08-25 | 1 |
+| 2026-08-25 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 35 | 46% |
+| Array | 36 | 47% |
 | Dynamic Programming | 17 | 22% |
-| Math | 15 | 20% |
+| Math | 15 | 19% |
 | Database | 13 | 17% |
 | String | 13 | 17% |
 | Binary Tree | 9 | 12% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 35 |
+| [Array](Topics/array/) | 36 |
 | [Backtracking](Topics/backtracking/) | 7 |
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Tree](Topics/binary-tree/) | 9 |
@@ -62,14 +62,14 @@ Contains topicwise list of solved problems.
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Database](Topics/database/) | 13 |
 | [Depth-First Search](Topics/depth-first-search/) | 9 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 17 |
 | [Game Theory](Topics/game-theory/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 4 |
 | [Hash Table](Topics/hash-table/) | 6 |
 | [Heap](Topics/heap/) | 0 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 1 |
 | [Linked List](Topics/linked-list/) | 0 |
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 1 |
@@ -80,10 +80,11 @@ Contains topicwise list of solved problems.
 | [Number Theory](Topics/number-theory/) | 3 |
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 6 |
+| [Quickselect](Topics/quickselect/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Simulation](Topics/simulation/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 4 |
-| [Sorting](Topics/sorting/) | 4 |
+| [Sorting](Topics/sorting/) | 5 |
 | [Stack](Topics/stack/) | 4 |
 | [String](Topics/string/) | 13 |
 | [Tree](Topics/tree/) | 9 |
