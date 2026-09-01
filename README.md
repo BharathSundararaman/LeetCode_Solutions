@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0506-relative-ranks](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0720-longest-word-in-dictionary](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0724-find-pivot-index](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0506-relative-ranks) |
 | [0720-longest-word-in-dictionary](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0976-largest-perimeter-triangle](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0976-largest-perimeter-triangle) |
 ## Prefix Sum
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/0506-relative-ranks) |
 | [1046-last-stone-weight](https://github.com/BharathSundararaman/LeetCode_Solutions/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
