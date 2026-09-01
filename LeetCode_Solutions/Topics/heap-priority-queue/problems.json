@@ -4,7 +4,7 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-08-31T16:31:51.629Z",
+  "updatedAt": "2026-09-01T11:28:35.418Z",
   "problems": [
     {
       "frontendId": "215",
@@ -43,6 +43,26 @@
           "path": "LeetCode_Solutions/0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.java",
           "sha": "983548797b21008d704dd78cc23d3882d58b1473",
           "lastSyncedAt": "2026-08-04T01:59:20.890Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "506",
+      "title": "Relative Ranks",
+      "slug": "relative-ranks",
+      "problemName": "0506-relative-ranks",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/relative-ranks/",
+      "folderPath": "LeetCode_Solutions/0506-relative-ranks/",
+      "readmePath": "LeetCode_Solutions/0506-relative-ranks/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0506-relative-ranks.java",
+          "path": "LeetCode_Solutions/0506-relative-ranks/0506-relative-ranks.java",
+          "sha": "4afeab63d284a0611d312bfcfa5646853437e27d",
+          "lastSyncedAt": "2026-09-01T11:28:35.418Z"
         }
       ]
     },
