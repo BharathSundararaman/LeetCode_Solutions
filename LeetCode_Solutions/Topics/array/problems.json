@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-01T11:28:35.418Z",
+  "updatedAt": "2026-09-07T16:09:04.515Z",
   "problems": [
     {
       "frontendId": "4",
@@ -763,6 +763,26 @@
           "path": "LeetCode_Solutions/1979-find-greatest-common-divisor-of-array/1979-find-greatest-common-divisor-of-array.java",
           "sha": "eab070447bd1231b1a334469f5f4c613d59e426c",
           "lastSyncedAt": "2026-08-02T11:57:38.920Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2133",
+      "title": "Check if Every Row and Column Contains All Numbers",
+      "slug": "check-if-every-row-and-column-contains-all-numbers",
+      "problemName": "2133-check-if-every-row-and-column-contains-all-numbers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/",
+      "folderPath": "LeetCode_Solutions/2133-check-if-every-row-and-column-contains-all-numbers/",
+      "readmePath": "LeetCode_Solutions/2133-check-if-every-row-and-column-contains-all-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2133-check-if-every-row-and-column-contains-all-numbers.java",
+          "path": "LeetCode_Solutions/2133-check-if-every-row-and-column-contains-all-numbers/2133-check-if-every-row-and-column-contains-all-numbers.java",
+          "sha": "7e4e4d9e76ee19e15d5ee3bb0df34d63d5a1233b",
+          "lastSyncedAt": "2026-09-07T16:09:04.515Z"
         }
       ]
     }
