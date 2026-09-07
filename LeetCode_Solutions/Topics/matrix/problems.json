@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-07-24T01:36:30.368Z",
+  "updatedAt": "2026-09-07T16:09:04.515Z",
   "problems": [
     {
       "frontendId": "37",
@@ -83,6 +83,26 @@
           "path": "LeetCode_Solutions/1572-matrix-diagonal-sum/1572-matrix-diagonal-sum.java",
           "sha": "18672cc153fe95a8233e2d4f75d2bdd212e118b7",
           "lastSyncedAt": "2026-07-19T06:28:23.241Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2133",
+      "title": "Check if Every Row and Column Contains All Numbers",
+      "slug": "check-if-every-row-and-column-contains-all-numbers",
+      "problemName": "2133-check-if-every-row-and-column-contains-all-numbers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/",
+      "folderPath": "LeetCode_Solutions/2133-check-if-every-row-and-column-contains-all-numbers/",
+      "readmePath": "LeetCode_Solutions/2133-check-if-every-row-and-column-contains-all-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2133-check-if-every-row-and-column-contains-all-numbers.java",
+          "path": "LeetCode_Solutions/2133-check-if-every-row-and-column-contains-all-numbers/2133-check-if-every-row-and-column-contains-all-numbers.java",
+          "sha": "7e4e4d9e76ee19e15d5ee3bb0df34d63d5a1233b",
+          "lastSyncedAt": "2026-09-07T16:09:04.515Z"
         }
       ]
     }
