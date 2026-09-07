@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-25T14:17:02.836Z",
+  "updatedAt": "2026-09-07T16:09:04.515Z",
   "problems": [
     {
       "frontendId": "37",
@@ -123,6 +123,26 @@
           "path": "LeetCode_Solutions/0904-fruit-into-baskets/0904-fruit-into-baskets.java",
           "sha": "696ba0436e759e2067da45091950f063c4f30b0c",
           "lastSyncedAt": "2026-07-19T06:30:03.809Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2133",
+      "title": "Check if Every Row and Column Contains All Numbers",
+      "slug": "check-if-every-row-and-column-contains-all-numbers",
+      "problemName": "2133-check-if-every-row-and-column-contains-all-numbers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/",
+      "folderPath": "LeetCode_Solutions/2133-check-if-every-row-and-column-contains-all-numbers/",
+      "readmePath": "LeetCode_Solutions/2133-check-if-every-row-and-column-contains-all-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2133-check-if-every-row-and-column-contains-all-numbers.java",
+          "path": "LeetCode_Solutions/2133-check-if-every-row-and-column-contains-all-numbers/2133-check-if-every-row-and-column-contains-all-numbers.java",
+          "sha": "7e4e4d9e76ee19e15d5ee3bb0df34d63d5a1233b",
+          "lastSyncedAt": "2026-09-07T16:09:04.515Z"
         }
       ]
     }
