@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 81 | 48 | 31 | 2 |
+| 82 | 48 | 32 | 2 |
 
 ## Activity
 
@@ -28,15 +28,15 @@ Contains topicwise list of solved problems.
 | 2026-08-31 | 1 |
 | 2026-09-01 | 1 |
 | 2026-09-07 | 1 |
-| 2026-09-30 | 1 |
+| 2026-09-30 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 40 | 49% |
-| Dynamic Programming | 17 | 21% |
-| Math | 15 | 19% |
+| Array | 41 | 50% |
+| Dynamic Programming | 18 | 22% |
+| Math | 15 | 18% |
 | Database | 13 | 16% |
 | String | 13 | 16% |
 | Depth-First Search | 10 | 12% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 40 |
+| [Array](Topics/array/) | 41 |
 | [Backtracking](Topics/backtracking/) | 7 |
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Tree](Topics/binary-tree/) | 9 |
@@ -63,10 +63,10 @@ Contains topicwise list of solved problems.
 | [Database](Topics/database/) | 13 |
 | [Depth-First Search](Topics/depth-first-search/) | 10 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 17 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 18 |
 | [Game Theory](Topics/game-theory/) | 1 |
 | [Graph](Topics/graph/) | 0 |
-| [Greedy](Topics/greedy/) | 4 |
+| [Greedy](Topics/greedy/) | 5 |
 | [Hash Table](Topics/hash-table/) | 7 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 4 |
