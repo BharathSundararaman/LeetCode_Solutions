@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-07T16:09:04.515Z",
+  "updatedAt": "2026-09-30T06:47:29.089Z",
   "problems": [
     {
       "frontendId": "4",
@@ -263,6 +263,26 @@
           "path": "LeetCode_Solutions/0198-house-robber/0198-house-robber.java",
           "sha": "504594f7802e43b0a99fa8ba30c50b8ba0d6cb21",
           "lastSyncedAt": "2026-07-19T06:29:00.615Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "200",
+      "title": "Number of Islands",
+      "slug": "number-of-islands",
+      "problemName": "0200-number-of-islands",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands/",
+      "folderPath": "LeetCode_Solutions/0200-number-of-islands/",
+      "readmePath": "LeetCode_Solutions/0200-number-of-islands/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0200-number-of-islands.java",
+          "path": "LeetCode_Solutions/0200-number-of-islands/0200-number-of-islands.java",
+          "sha": "bfb0a74710bcf86529692ee1ba013ec92ea530df",
+          "lastSyncedAt": "2026-09-30T06:47:29.089Z"
         }
       ]
     },
