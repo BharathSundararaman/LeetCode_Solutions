@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 82 | 48 | 32 | 2 |
+| 83 | 48 | 33 | 2 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-08-31 | 1 |
 | 2026-09-01 | 1 |
 | 2026-09-07 | 1 |
-| 2026-09-30 | 2 |
+| 2026-09-30 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 41 | 50% |
+| Array | 41 | 49% |
 | Dynamic Programming | 18 | 22% |
-| Math | 15 | 18% |
+| Math | 16 | 19% |
 | Database | 13 | 16% |
 | String | 13 | 16% |
 | Depth-First Search | 10 | 12% |
 | Binary Tree | 9 | 11% |
 | Tree | 9 | 11% |
-| Backtracking | 7 | 9% |
-| Breadth-First Search | 7 | 9% |
+| Backtracking | 7 | 8% |
+| Breadth-First Search | 7 | 8% |
 
 ## Topics
 
@@ -53,7 +53,7 @@ Contains topicwise list of solved problems.
 | [Backtracking](Topics/backtracking/) | 7 |
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Tree](Topics/binary-tree/) | 9 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 3 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 4 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 7 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
@@ -73,7 +73,7 @@ Contains topicwise list of solved problems.
 | [Knapsack Problem](Topics/knapsack-problem/) | 1 |
 | [Linked List](Topics/linked-list/) | 0 |
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 1 |
-| [Math](Topics/math/) | 15 |
+| [Math](Topics/math/) | 16 |
 | [Matrix](Topics/matrix/) | 6 |
 | [Memoization](Topics/memoization/) | 2 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
