@@ -4,7 +4,7 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-08-19T14:32:34.470Z",
+  "updatedAt": "2026-09-30T06:47:29.089Z",
   "problems": [
     {
       "frontendId": "100",
@@ -83,6 +83,26 @@
           "path": "LeetCode_Solutions/0111-minimum-depth-of-binary-tree/0111-minimum-depth-of-binary-tree.java",
           "sha": "86ce895bec794211d2dc7144747b1face4165a9e",
           "lastSyncedAt": "2026-07-25T05:04:54.949Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "200",
+      "title": "Number of Islands",
+      "slug": "number-of-islands",
+      "problemName": "0200-number-of-islands",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands/",
+      "folderPath": "LeetCode_Solutions/0200-number-of-islands/",
+      "readmePath": "LeetCode_Solutions/0200-number-of-islands/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0200-number-of-islands.java",
+          "path": "LeetCode_Solutions/0200-number-of-islands/0200-number-of-islands.java",
+          "sha": "bfb0a74710bcf86529692ee1ba013ec92ea530df",
+          "lastSyncedAt": "2026-09-30T06:47:29.089Z"
         }
       ]
     },
