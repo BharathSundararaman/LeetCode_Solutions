@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 83 | 48 | 33 | 2 |
+| 84 | 49 | 33 | 2 |
 
 ## Activity
 
@@ -28,17 +28,17 @@ Contains topicwise list of solved problems.
 | 2026-08-31 | 1 |
 | 2026-09-01 | 1 |
 | 2026-09-07 | 1 |
-| 2026-09-30 | 3 |
+| 2026-09-30 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 41 | 49% |
-| Dynamic Programming | 18 | 22% |
-| Math | 16 | 19% |
-| Database | 13 | 16% |
-| String | 13 | 16% |
+| Dynamic Programming | 18 | 21% |
+| Math | 17 | 20% |
+| Database | 13 | 15% |
+| String | 13 | 15% |
 | Depth-First Search | 10 | 12% |
 | Binary Tree | 9 | 11% |
 | Tree | 9 | 11% |
@@ -53,7 +53,7 @@ Contains topicwise list of solved problems.
 | [Backtracking](Topics/backtracking/) | 7 |
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Tree](Topics/binary-tree/) | 9 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 4 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 5 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 7 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
@@ -73,7 +73,7 @@ Contains topicwise list of solved problems.
 | [Knapsack Problem](Topics/knapsack-problem/) | 1 |
 | [Linked List](Topics/linked-list/) | 0 |
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 1 |
-| [Math](Topics/math/) | 16 |
+| [Math](Topics/math/) | 17 |
 | [Matrix](Topics/matrix/) | 6 |
 | [Memoization](Topics/memoization/) | 2 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
@@ -81,7 +81,7 @@ Contains topicwise list of solved problems.
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 6 |
 | [Quickselect](Topics/quickselect/) | 1 |
-| [Recursion](Topics/recursion/) | 1 |
+| [Recursion](Topics/recursion/) | 2 |
 | [Simulation](Topics/simulation/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 4 |
 | [Sorting](Topics/sorting/) | 6 |
