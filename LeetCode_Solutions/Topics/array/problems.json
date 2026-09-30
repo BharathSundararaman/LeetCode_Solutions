@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T06:47:29.089Z",
+  "updatedAt": "2026-09-30T07:13:22.190Z",
   "problems": [
     {
       "frontendId": "4",
@@ -123,6 +123,26 @@
           "path": "LeetCode_Solutions/0053-maximum-subarray/0053-maximum-subarray.java",
           "sha": "a7fd350aa6171789ec1e3c48fe6f0cf6c446496d",
           "lastSyncedAt": "2026-07-29T01:57:20.463Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "55",
+      "title": "Jump Game",
+      "slug": "jump-game",
+      "problemName": "0055-jump-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game/",
+      "folderPath": "LeetCode_Solutions/0055-jump-game/",
+      "readmePath": "LeetCode_Solutions/0055-jump-game/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0055-jump-game.java",
+          "path": "LeetCode_Solutions/0055-jump-game/0055-jump-game.java",
+          "sha": "e853d75a2e1a0a902a414361b820c81cbd305ffc",
+          "lastSyncedAt": "2026-09-30T07:13:22.190Z"
         }
       ]
     },
