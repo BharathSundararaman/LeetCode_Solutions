@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "union-find",
+    "name": "Union-Find"
+  },
+  "updatedAt": "2026-09-30T06:47:29.089Z",
+  "problems": [
+    {
+      "frontendId": "200",
+      "title": "Number of Islands",
+      "slug": "number-of-islands",
+      "problemName": "0200-number-of-islands",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands/",
+      "folderPath": "LeetCode_Solutions/0200-number-of-islands/",
+      "readmePath": "LeetCode_Solutions/0200-number-of-islands/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0200-number-of-islands.java",
+          "path": "LeetCode_Solutions/0200-number-of-islands/0200-number-of-islands.java",
+          "sha": "bfb0a74710bcf86529692ee1ba013ec92ea530df",
+          "lastSyncedAt": "2026-09-30T06:47:29.089Z"
+        }
+      ]
+    }
+  ]
+}
