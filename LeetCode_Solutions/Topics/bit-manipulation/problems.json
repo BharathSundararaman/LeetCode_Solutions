@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-30T07:24:03.233Z",
+  "updatedAt": "2026-09-30T07:27:18.250Z",
   "problems": [
     {
       "frontendId": "67",
@@ -63,6 +63,26 @@
           "path": "LeetCode_Solutions/0136-single-number/0136-single-number.java",
           "sha": "fde936d96df2fa9d7329f76fb82a46115624ed2a",
           "lastSyncedAt": "2026-08-24T15:16:55.582Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "231",
+      "title": "Power of Two",
+      "slug": "power-of-two",
+      "problemName": "0231-power-of-two",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-two/",
+      "folderPath": "LeetCode_Solutions/0231-power-of-two/",
+      "readmePath": "LeetCode_Solutions/0231-power-of-two/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0231-power-of-two.java",
+          "path": "LeetCode_Solutions/0231-power-of-two/0231-power-of-two.java",
+          "sha": "b91dfa525fe67647176040a455569cc91f3025af",
+          "lastSyncedAt": "2026-09-30T07:27:18.250Z"
         }
       ]
     },
